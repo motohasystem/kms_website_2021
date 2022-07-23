@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>工作 &#8211; New KMS Blog</title>
+	<atom:link href="/category/maneuvering/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 15 May 2019 07:55:34 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">207431303</site>	<item>
+		<title>DIYキエーロの準備と試作と自動生成プログラム</title>
+		<link>/2019/05/15/diy%e3%82%ad%e3%82%a8%e3%83%bc%e3%83%ad%e3%81%ae%e6%ba%96%e5%82%99%e3%81%a8%e8%a9%a6%e4%bd%9c%e3%81%a8%e8%87%aa%e5%8b%95%e7%94%9f%e6%88%90%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0/</link>
+		
+		<dc:creator><![CDATA[Daisuke]]></dc:creator>
+		<pubDate>Wed, 15 May 2019 07:55:34 +0000</pubDate>
+				<category><![CDATA[workshop]]></category>
+		<category><![CDATA[レシピ]]></category>
+		<category><![CDATA[工作]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1892</guid>
+
+					<description><![CDATA[こんにちは、KMS本橋です。 生ゴミを堆肥に変えるコンポスト（コンポスター）はご存知でしょうか？ 神山町ではつい最近まで生ゴミの回収がなく、みなさん畑に設置したコンポストで処理をしていました。そういった経緯で神山には残骸 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>こんにちは、KMS本橋です。</p>
+<p>生ゴミを堆肥に変えるコンポスト（コンポスター）はご存知でしょうか？</p>
+<p>神山町ではつい最近まで生ゴミの回収がなく、みなさん畑に設置したコンポストで処理をしていました。そういった経緯で神山には残骸も含めてコンポストがあちこちにおいてあります。</p>
+<p>そんな中で、神山町を含めて全国的に「キエーロ」というタイプのコンポストがここ数年で人気を博してきています。一般的なコンポストに比べてキエーロは「臭いが出にくく、虫もわきにくい」というコンポストの難点をきれいにクリアしている大きなアドバンテージがあります。</p>
+<p>その秘密は太陽光を取り入れて温度を上げることと、通気性を確保して表面を乾燥させること。この２つの合わせ技で生ゴミの消化効率を向上させています。堆肥化ではなくバクテリアの力で消化するため、土の量はそれほど増えずに生ゴミが消えるため、「キエーロ」という名前なのだそうです。</p>
+<p style="padding-left: 30px;"><a href="http://www.kiero.jp/index.html">キエーロ　葉山</a><br />
+http://www.kiero.jp/index.html</p>
+<p>これまでは僕も生ゴミを回収に出していたのですが、GWの連休を使ってキエーロを作ってみようと思い立ちました。以前開催した棚作りワークショップで木材が大量に余っていることを教えてもらったのもいいタイミングでした。</p>
+<blockquote class="wp-embedded-content" data-secret="CUYiQTD610"><p><a href="http://kamiyama.ms/2018/03/21/%e5%8b%95%e7%94%bb%e3%81%a7%e3%81%b5%e3%82%8a%e3%81%8b%e3%81%88%e3%82%8b%e6%a3%9a%e4%bd%9c%e3%82%8a%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/">動画でふりかえる棚作りワークショップ</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://kamiyama.ms/2018/03/21/%e5%8b%95%e7%94%bb%e3%81%a7%e3%81%b5%e3%82%8a%e3%81%8b%e3%81%88%e3%82%8b%e6%a3%9a%e4%bd%9c%e3%82%8a%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/embed/#?secret=CUYiQTD610" data-secret="CUYiQTD610" width="500" height="282" title="&#8220;動画でふりかえる棚作りワークショップ&#8221; &#8212; KMS" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>作りたいものがあって、道具があって、材料があって、時間もある。こんなタイミングは人生でそうそうあるもんじゃない！　勢い余って2台作りました。</p>
+<h2><strong>接地型1号機（自宅）</strong></h2>
+<p><img loading="lazy" class="alignnone wp-image-1896 size-large" src="http://kamiyama.ms/wp-content/uploads/2019/05/IMG_7599-960x1280.jpeg" alt="" width="960" height="1280" /></p>
+<p>&nbsp;</p>
+<h2><strong>可搬型2号機（神山コンプレックス）</strong></h2>
+<p><img loading="lazy" class="alignnone wp-image-1897 size-large" src="http://kamiyama.ms/wp-content/uploads/2019/05/IMG_7761-1280x960.jpeg" alt="" width="1280" height="960" /></p>
+<p>2号機はKMSのオープンデーに公開ワークショップとして実施したところ、数名の方に見学やお手伝いに来ていただき大変助かりました。キエーロに限らず、KMSメンバーの日々のものづくりを公開するオープンワークショップは今後も定期的に行っていきたいと思います。また次回の情報をお待ち下さい。</p>
+<p>そしてただ作るだけでは面白くないので、KMSの設備を使えば誰でもキエーロを作り上げられるように設計図を公開していきたいと思います。が、そちらは長くなりそうなので今回はひとまずキエーロづくりワークショップの様子をお届けします。</p>
+<p>設計図を自動生成するプログラムは<a href="https://github.com/tenguyasiki/kms_kiero">github</a>においておきますのでよかったらどうぞ。</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1898" src="http://kamiyama.ms/wp-content/uploads/2019/05/28c43bf78bd4c9dc1a880a557058ffad-1280x672.jpg" alt="" width="1280" height="672" /></p>
+<p><a href="https://github.com/tenguyasiki/kms_kiero">https://github.com/tenguyasiki/kms_kiero</a></p>
+<p>プログラムの使い方はまた改めて別記事に立てます。</p>
+<h2>さあ作業開始！</h2>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1904" src="http://kamiyama.ms/wp-content/uploads/2019/05/6BBCE98F-1E65-4AE0-84FC-14F38778C47C-720x1280.jpg" alt="" width="720" height="1280" /></p>
+<p>丸ノコで合板をカットしていきます。キエーロ1台あたり、だいたい1800&#215;900の合板が1枚あれば作れます。角材は可搬型の場合は結構いっぱい必要。</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1905" src="http://kamiyama.ms/wp-content/uploads/2019/05/7F3157E1-8C16-43A1-8C45-1417EA83C565-720x1280.jpg" alt="" width="720" height="1280" /></p>
+<p>カットできました。</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1903" src="http://kamiyama.ms/wp-content/uploads/2019/05/3D508D9B-76CC-4F87-839D-127684478330-720x1280.jpg" alt="" width="720" height="1280" /></p>
+<p>スライド丸ノコで角材をカットしていきます。</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1907" src="http://kamiyama.ms/wp-content/uploads/2019/05/37FF490A-BDA7-44CE-9116-4126681A383E-720x1280.jpg" alt="" width="720" height="1280" /></p>
+<p>カットできました。木材の準備はこれでOK。</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1910" src="http://kamiyama.ms/wp-content/uploads/2019/05/IMG_7652-1280x960.jpeg" alt="" width="1280" height="960" /></p>
+<p>バーナーで表面を炙って焼き杉加工をしていきます。防腐剤のペイントをしても良いのですが焼き杉はスマートな印象があるのでやってみたかった。ニコライさんに手伝ってもらいつつ、午前中でここまでできました。</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1908" src="http://kamiyama.ms/wp-content/uploads/2019/05/0664351D-FB8C-430D-96DD-50F5DB885D2A-720x1280.jpg" alt="" width="720" height="1280" /></p>
+<p>午後はインパクトドライバーでガガガッと組み立てていきます。カット済みの木材が揃ってれば2時間位で組み立てられそうです。</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1911" src="http://kamiyama.ms/wp-content/uploads/2019/05/IMG_7657-960x1280.jpeg" alt="" width="960" height="1280" /></p>
+<p>午後もニコライさんに手伝ってもらいつつ。</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1912" src="http://kamiyama.ms/wp-content/uploads/2019/05/IMG_7658-1280x960.jpeg" alt="" width="1280" height="960" /></p>
+<p>完成！</p>
+<p>キエーロのなかに入れる土が結構大量に必要となるため土の準備が大変でした。このときは畑の側溝に流れて溜まった土を掻き出して入れています。側溝とは言いながらも栄養豊富な畑の土と積み重なった腐葉土が詰まっていてミミズもたっぷりいるとてもいい土でした。正直キエーロに使うにはもったいないレベル。バクテリアもきっと元気いっぱいなやつらがみっしり詰まっているかと思います。</p>
+<p>生ゴミをどれくらい消化してくれるのかはネット上に実験結果をレポートしている方がたくさんいますのでぜひキエーロで検索してみてください。</p>
+<p>楽しいバクテリアライフを！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1892</post-id>	</item>
+		<item>
+		<title>神山の杉板 × KMS ×なっちゃんの書 で粋なものづくり</title>
+		<link>/2018/12/23/%e7%a5%9e%e5%b1%b1%e3%81%ae%e6%9d%89%e6%9d%bf-x-kms-x%e3%81%aa%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e6%9b%b8-%e3%81%a7%e7%b2%8b%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a5%e3%81%8f%e3%82%8a/</link>
+		
+		<dc:creator><![CDATA[kms]]></dc:creator>
+		<pubDate>Sun, 23 Dec 2018 01:31:37 +0000</pubDate>
+				<category><![CDATA[工作]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1874</guid>
+
+					<description><![CDATA[少女バレー大会の賞状と記念品のキーホルダーを作成しました。 レーザーカッターで賞状サイズに切った板に、カフェ・エスターテまたは神山BEERでおなじみ 、なっちゃんが手書きで文字を入れてくれました。 装飾はなくして端正な文 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-1876" src="http://kamiyama.ms/wp-content/uploads/2018/12/IMG_9900.jpg" alt="" width="2974" height="2208" /></p>
+<p>少女バレー大会の賞状と記念品のキーホルダーを作成しました。<br />
+レーザーカッターで賞状サイズに切った板に、カフェ・エスターテまたは神山BEERでおなじみ 、<a href="https://www.facebook.com/profile.php?id=100005696118209&amp;__tn__=K-R&amp;eid=ARCw9kzxnf1Ms1A8OqXZvivvlbPFc42jPJZuzS75sOnejTX9nwh5z4_S9uko4A5OZt9jc-JH10ks88On&amp;fref=mentions&amp;__xts__[0]=68.ARDZdrPq8z2HvrzTSORXdbJb2P8CGnELFxZ6fLnrUSXBT9848WC13UQRnBbmXF9KelwU-YGVlAMJaANPR8gYU2CmZzzUy1QqQHuMNd4okkfccFR_cAecagZ8tBoOuNabSIGdyiiuvd8sWMoBDB8llCZvQGdWf3B32UxK27eKDA4g1WFmAJ1P3dQsI1vvfhiiCnHeQIkf_eBGB83FVxPi4gI4mcsCd78zWcBtSUaOhIzcRC1ZDOiboS20-X0X_AQJ30QEUGcr1YX6FHVGFGimM7VokLUSZLHQMZAPNYnXdROB0J_faswjrmS1eOgpBef-76UxEZUOGhwwruF-FHawOP4" target="_blank" rel="noopener">なっちゃん</a>が手書きで文字を入れてくれました。</p>
+<p>装飾はなくして端正な文字と木目の美しさが引き立つようにした結果、シンプルで、強く、美しい賞状ができました。喜んでいただけるといいなあ。大会の大成功を祈念してやみません。みんな、がんばれ〜</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-1877" src="http://kamiyama.ms/wp-content/uploads/2018/12/IMG_9906.jpg" alt="" width="3264" height="2448" /></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-1878" src="http://kamiyama.ms/wp-content/uploads/2018/12/IMG_9908.jpg" alt="" width="3264" height="2061" /></p>
+<p>キーホルダーは大会に参加するチーム名をそれぞれ刻印したものです。その数、350個！全部並べると圧巻ですね。素材としての杉板が豊富なのが神山とKMSの強みです。町内の小西製材所さんに作っていただいている杉板はKMSに置いてあるので誰でも買うことができます。（あべけん <a href="https://www.facebook.com/profile.php?id=100005230489007&amp;__tn__=K-R&amp;eid=ARBOImX5YQUfOBVL2Azju-qqwfPVR8ztF_71VrAuNJbTvEmDBixOuSGGGVM7vWk5tPDwUQpi6iKa5orc&amp;fref=mentions&amp;__xts__[0]=68.ARBwZELMo9HBz7Ep8moC_ECTosJpcaWbRZRbfw2GfK8fsZAuoZz3YIkHgwvlxb1POkZ3p6Jg8IEXUd1pc-bWKySMsXeur59_oiJ3S0aUizuSCAalu7N-_Of_fBjLVkomUMRAejB9UFnIQ7eUz61LACvzP30TEY1uryKqMYu96KFccRe3BDlhQGcBcd-ME8vhWx8QPuRAdGz74YRMAMtLdiW_aXihGKFgPk5fp5FtdWInwkjvoxgiHZxtM6I0mbVQTNsoZ53IjG501bmGn-h83jPNkto7Vg0x6S9OWOOnhpHAPRq0smIOcmGro16FlbwMRnikz1Ciyb6NvTMeqOWBxvQ" target="_blank" rel="noopener">阿部 健治さん</a>、いつもお世話になってます。ありがとうございます！）</p>
+<p>書家としてのなっちゃんの雅号は馨華（けいか）、<br />
+以下は今回の仕事を通して彼女が感じたメッセージです。<br />
+「木に書くと、独特の木からのエネルギーや色や香りや呼吸を感じることができ、とても興味深い時間です。<br />
+これを少女バレーの選手の皆さんが手にしたとき、これに携わった人や、神山の自然を感じ、ここからまた新しいエネルギーを得て、次につなげてくれるようなものになれば嬉しいな、と思いながら書きました。」</p>
+<p>今回初めて実現したこのコラボですが、他にもいろんなことに応用できそうです。そして書のお仕事の依頼はなっちゃん Natsumi Yoshizawaまで。</p>
+<p>追記：キーホルダーに漢字違いがありましたが、正しい方のお名前で作り直してお渡し済みです。関係者のみなさま、驚かせてすみませんでした。そしてご指摘ありがとうございました。自分の目と脳の思い込みは本当に信用ならないですね。助かりました。</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1874</post-id>	</item>
+		<item>
+		<title>杉板でカラフルなクリスマスオーナメント作り</title>
+		<link>/2018/12/23/%e6%9d%89%e6%9d%bf%e3%81%a7%e3%82%ab%e3%83%a9%e3%83%95%e3%83%ab%e3%81%aa%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%aa%e3%83%bc%e3%83%8a%e3%83%a1%e3%83%b3%e3%83%88%e4%bd%9c%e3%82%8a/</link>
+		
+		<dc:creator><![CDATA[kms]]></dc:creator>
+		<pubDate>Sun, 23 Dec 2018 01:18:54 +0000</pubDate>
+				<category><![CDATA[工作]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1870</guid>
+
+					<description><![CDATA[22日は冬至でした。一年でもっとも夜が長い日ですね。 毎年寒くなってくるとなにかクリスマスらしいものを作りたいなと考えます。 そんな折、某おしゃれ雑貨店で見た、木の形にぎこちなくカットされたオーナメントがすごく気になった [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>22日は冬至でした。一年でもっとも夜が長い日ですね。</p>
+<p>毎年寒くなってくるとなにかクリスマスらしいものを作りたいなと考えます。</p>
+<p>そんな折、某おしゃれ雑貨店で見た、木の形にぎこちなくカットされたオーナメントがすごく気になったので、今年はその雰囲気を意識しつつデザインしました。</p>
+<p><img loading="lazy" src="http://kamiyama.ms/wp-content/uploads/2018/12/IMG_0007.jpg" alt="" width="3264" height="2448" class="alignnone size-full wp-image-1871" /></p>
+<p>木の形に杉板を木の形に切り抜いて、そこに色を塗った端材をボンドではりつけ。<br />
+うん、かわいい。よしよし＾＾</p>
+<p>わたしのクリスマス心がこうして今年も満たされました。</p>
+<p>小さいツリーもたくさん作って、そちらは23日の「まちの読書室」で、お子様のみですがおひとりさま1個、マーカーで彩色して持ち帰ってもらえますよ〜。（まちの読書室についてはこちらをどうぞ→ 　https://www.in-kamiyama.jp/events/32196/）</p>
+<p><img loading="lazy" src="http://kamiyama.ms/wp-content/uploads/2018/12/IMG_0008.jpg" alt="" width="3264" height="2448" class="alignnone size-full wp-image-1872" /></p>
+<p>好きな形のデータを作り、レーザーカッターで材料を切り抜けば、誰でも自分で好きなように好きなものが作れます。<br />
+レーザー加工を習って作ってみたい方、トライしてみませんか。</p>
+<p>以前習ったけど忘れちゃったなという方、一緒に手順を確認しながら習ったことを思い出すお手伝いもできます。</p>
+<p>遠慮なくKMSまでお声がけくださいね。</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1870</post-id>	</item>
+		<item>
+		<title>セレモニーの小道具づくりと入居者募集のお知らせ</title>
+		<link>/2018/10/11/%e3%82%bb%e3%83%ac%e3%83%a2%e3%83%8b%e3%83%bc%e3%81%ae%e5%b0%8f%e9%81%93%e5%85%b7%e3%81%a5%e3%81%8f%e3%82%8a%e3%81%a8%e5%85%a5%e5%b1%85%e8%80%85%e5%8b%9f%e9%9b%86%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89/</link>
+		
+		<dc:creator><![CDATA[Daisuke]]></dc:creator>
+		<pubDate>Thu, 11 Oct 2018 08:36:44 +0000</pubDate>
+				<category><![CDATA[イベントレポート]]></category>
+		<category><![CDATA[工作]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1820</guid>
+
+					<description><![CDATA[こんにちは、本橋です。 私事なんですがこのたび神山町に引っ越しをしまして、大埜地集合住宅という町営住宅に入居することができました。神山町の木材を使って、神山町の職人が建てるというプロジェクトで、その第一期となります。 記 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>こんにちは、本橋です。</p>
+<p>私事なんですがこのたび神山町に引っ越しをしまして、大埜地集合住宅という町営住宅に入居することができました。神山町の木材を使って、神山町の職人が建てるというプロジェクトで、その第一期となります。</p>
+<figure id="attachment_1822" aria-describedby="caption-attachment-1822" style="width: 1280px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-1822 size-large" src="http://kamiyama.ms/wp-content/uploads/2018/10/Evernote-Snapshot-20180804-093629-1280x1176.jpg" alt="" width="1280" height="1176" /><figcaption id="caption-attachment-1822" class="wp-caption-text">地元新聞にも取り上げられました。</figcaption></figure>
+<p>記事の写真の一番手前でこの手のセレモニーにありがちな巨大な家の鍵を受け取っているのが僕です。</p>
+<p>そしてこのありがちな巨大な家の鍵、セレモニーキーも実は神山町からの依頼があってKMSで作りました。</p>
+<figure id="attachment_1821" aria-describedby="caption-attachment-1821" style="width: 1280px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-1821 size-large" src="http://kamiyama.ms/wp-content/uploads/2018/10/IMG_3857-1280x960.jpg" alt="" width="1280" height="960" /><figcaption id="caption-attachment-1821" class="wp-caption-text">製作途中</figcaption></figure>
+<p>デザインもこちら任せということで、神山町の町章と大埜地住宅から見える象山の稜線をあしらってみました。材質も神山杉が指定だったので強度を出すためにMDFを芯材にしています。</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-1824" src="http://kamiyama.ms/wp-content/uploads/2018/10/9be853d0ea15e3c1292918de994fdf57.png" alt="" width="896" height="1147" srcset="/wp-content/uploads/2018/10/9be853d0ea15e3c1292918de994fdf57.png 896w, /wp-content/uploads/2018/10/9be853d0ea15e3c1292918de994fdf57-234x300.png 234w, /wp-content/uploads/2018/10/9be853d0ea15e3c1292918de994fdf57-800x1024.png 800w, /wp-content/uploads/2018/10/9be853d0ea15e3c1292918de994fdf57-768x983.png 768w" sizes="(max-width: 896px) 100vw, 896px" /></p>
+<p>アクリルを使ったりも考えたんですがシンプルに木目を活かすことにしました。大きさは1.7メートルほどになり、成人男性が抱えるとこんなサイズ感です。</p>
+<figure id="attachment_1823" aria-describedby="caption-attachment-1823" style="width: 1280px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-1823 size-large" src="http://kamiyama.ms/wp-content/uploads/2018/10/IMG_3917-1280x960.jpg" alt="" width="1280" height="960" /><figcaption id="caption-attachment-1823" class="wp-caption-text">製作には役場の北山さん、馬場さんにもお手伝いいただきました。</figcaption></figure>
+<p>セレモニーの小道具を僕が作って僕が受け取るというのもなんだろうなという気がしないこともありませんでしたが今後の二期以降の入居セレモニーでも使っていただけるそうです。</p>
+<p>そして現在も大埜地住宅第二期の入居募集の真っ最中。というか申込みは明日10月12日まで！　興味をお持ちの方はぜひぜひこちらのページをご覧ください。</p>
+<p><a href="http://www.town.kamiyama.lg.jp/co-housing/residents02.html"><img loading="lazy" class="aligncenter size-full wp-image-1825" src="http://kamiyama.ms/wp-content/uploads/2018/10/53197df827e63ecd22243ee850137988.png" alt="" width="1557" height="1055" srcset="/wp-content/uploads/2018/10/53197df827e63ecd22243ee850137988.png 1557w, /wp-content/uploads/2018/10/53197df827e63ecd22243ee850137988-300x203.png 300w, /wp-content/uploads/2018/10/53197df827e63ecd22243ee850137988-1024x694.png 1024w, /wp-content/uploads/2018/10/53197df827e63ecd22243ee850137988-768x520.png 768w, /wp-content/uploads/2018/10/53197df827e63ecd22243ee850137988-1536x1041.png 1536w" sizes="(max-width: 1557px) 100vw, 1557px" /></a></p>
+<p style="text-align: center;"><a href="http://www.town.kamiyama.lg.jp/co-housing/residents02.html">http://www.town.kamiyama.lg.jp/co-housing/residents02.html</a></p>
+<p>神山町には神山メイカースペースがありますので、まちづくりやサテライトオフィスだけではなく、レーザーカッターや３Dプリンタを使ったデジタルものづくりに興味がある方も大歓迎です！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1820</post-id>	</item>
+		<item>
+		<title>【サンドペーパーで仕上げる木のスプーン作りワークショップ】</title>
+		<link>/2018/07/18/%e3%80%90%e3%82%b5%e3%83%b3%e3%83%89%e3%83%9a%e3%83%bc%e3%83%91%e3%83%bc%e3%81%a7%e4%bb%95%e4%b8%8a%e3%81%92%e3%82%8b%e6%9c%a8%e3%81%ae%e3%82%b9%e3%83%97%e3%83%bc%e3%83%b3%e4%bd%9c%e3%82%8a%e3%83%af/</link>
+		
+		<dc:creator><![CDATA[kazu]]></dc:creator>
+		<pubDate>Wed, 18 Jul 2018 05:44:47 +0000</pubDate>
+				<category><![CDATA[workshop]]></category>
+		<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[工作]]></category>
+		<category><![CDATA[kazu]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1723</guid>
+
+					<description><![CDATA[こんにちは！KMSの市脇です。 7月21日(土)のオープンデーの日に、手加工で木のスプーンを作るワークショップをします。 今回作るのは「へらさじ」というもの。 スプーンと木ベラを組み合わせたデザインで、クリーム状のものや [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>こんにちは！KMSの市脇です。<br />
+7月21日(土)のオープンデーの日に、手加工で木のスプーンを作るワークショップをします。</p>
+<p>今回作るのは「へらさじ」というもの。<br />
+スプーンと木ベラを組み合わせたデザインで、クリーム状のものや<br />
+ペーストなどをすくってパンやクラッカーに塗るのにとてもよい形状をしています。<br />
+ヨーグルトを食べるのにもよく、なめらかなさじの部分の口当たりが最高のスプーンです。</p>
+<p>刃物は使わず、途中まで加工済みのスプーン素材にサンドペーパーをかけ、<br />
+最後にオイルを塗って、その拭き取りまでをやります。</p>
+<p>口当たりや触り心地も思いのままです。</p>
+<p>【日時】7月21日(土)　13:30〜15:00<br />
+【場所】KMS 神山メイカースペース<br />
+【持ち物】<br />
+・汚れてもよい服装またはエプロン<br />
+・汗をふくタオル、水分補給の飲み物<br />
+【参加費】スプーン1つにつき2100円（税込）</p>
+<p>8本分ほど用意があります。お早めにお申し込みください〜</p>
+<p>＜当日の流れ＞<br />
+13:30 集合・受付<br />
+→ 加工の手順説明とスプーン向きの樹の種類を学ぶ<br />
+→ 自分のスプーン素材を選ぶ<br />
+→ 荒目と仕上げ2種類のサンドペーパーでひたすらなめらかにする（やりすぎ注意！）<br />
+→ オスモカラーノーマルクリアを塗って拭き取る<br />
+&#8212;当日の作業ここまで&#8212;</p>
+<p>＜それ以降の流れ＞<br />
+みなさんが加工したスプーンを市脇が預かる<br />
+→ 残り2回オスモカラーノーマルクリアを塗って乾かす<br />
+→ 完成！！<br />
+→ 出来上がったスプーンを皆さんのおうちに郵送<br />
+→ スプーンがお手元に届く！</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="alignnone size-large wp-image-1725" src="http://kamiyama.ms/wp-content/uploads/2018/07/IMG_8032-1280x1280.jpg" alt="" width="1280" height="1280" /></p>
+<p>申込み・問合せ先はこちら（<span class="_4ay8 _3kkw"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2b50.png" alt="⭐" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</span>を@に変えて送信してください）<br />
+市脇　 kazue.ichiwaki<span class="_4ay8 _3kkw"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2b50.png" alt="⭐" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</span><a href="https://gmail.com/" target="_blank" rel="noopener nofollow" data-ft="{&quot;tn&quot;:&quot;-U&quot;}" data-lynx-mode="origin" data-lynx-uri="https://l.facebook.com/l.php?u=https%3A%2F%2Fgmail.com%2F&amp;h=AT2DMg0TFHcZEyha_zkcnnE6G8-m7Qef5Lg9SyTTc4Fhr4H79BvcQzbBLL1jWGgNjfc4_x61EUn8slltH3HtgttA5loLKKV4tWBtNq_JpfCykcYt6mWshqakpvQGMJdjNvNV1r_eOQ0icPCKt6EjasrQEmMAZzUm">gmail.com</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1723</post-id>	</item>
+		<item>
+		<title>年末前の交通安全！キラキラ光る虫「キラチュウを探そう！」イベントのお知らせ</title>
+		<link>/2017/11/25/%e5%b9%b4%e6%9c%ab%e5%89%8d%e3%81%ae%e4%ba%a4%e9%80%9a%e5%ae%89%e5%85%a8%ef%bc%81%e3%82%ad%e3%83%a9%e3%82%ad%e3%83%a9%e5%85%89%e3%82%8b%e8%99%ab%e3%80%8c%e3%82%ad%e3%83%a9%e3%83%81%e3%83%a5%e3%82%a6/</link>
+		
+		<dc:creator><![CDATA[kms]]></dc:creator>
+		<pubDate>Sat, 25 Nov 2017 09:49:50 +0000</pubDate>
+				<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[工作]]></category>
+		<category><![CDATA[教育]]></category>
+		<category><![CDATA[活動]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1354</guid>
+
+					<description><![CDATA[こんにちは。神山メイカースペース（KMS）からあべです。 キラチュウを探そう！先着40名（ピカチュウでないですよ、キラチュウです。）のお知らせです。 日が落ちるのが早くなり、子供達の学校や塾の帰りなど夕方から夜にかけて歩 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>こんにちは。神山メイカースペース（KMS）からあべです。</p>
+<p><span style="color: #ff0000;"><strong>キラチュウを探そう！</strong></span>先着40名（ピカチュウでないですよ、キラチュウです。）のお知らせです。</p>
+<p class="p1">日が落ちるのが早くなり、子供達の学校や塾の帰りなど夕方から夜にかけて歩行者が車から見えにくくなる時間がぐんと増ええてきます。神山メイカースペースでは、子供達と一緒に楽しく交通安全について体験できる「キラチュウを探そう！」ツアーを企画します。</p>
+<p class="p1">キラチュウは虫の形をした道路標識などに使われている反射材から出来ています。車のライトが当たればキラリと光ります。</p>
+<p class="p1">「キラチュウを探そう！」では　参加者の皆さんに暗闇の中で光る反射材の効果を<span class="s2">、</span>虫を探しながら体験してもうツアーです。</p>
+<p class="p1">当日は城西高校や神山メイカースペースのお兄さん、お姉さんと一緒に懐中電灯を片手に城西高校内に設置された暗闇に光るキラチュウを探します。</p>
+<p class="p1">さて、何匹捕まえられるでしょう！？</p>
+<p class="p1">見つけた数や虫の種類の合計点で参加賞ももらえます！色んな賞がもらえます！</p>
+<p class="p1">おもいやりライトのお話もあるよ。</p>
+<p>それに伴って、</p>
+<h4 class="p1"><strong><span style="color: #ff0000;">「キラチュウを作ろう！」</span></strong>も企画しています。</h4>
+<p class="p1">レーザーカッターを使って光るキラチュウを作ります。できたキラチュウは、キラチュウツアーで活用します。高校生のお姉さんと一緒にキラチュウ作りに挑戦しませんか？！</p>
+<p><img loading="lazy" class="alignnone wp-image-1349" src="http://kamiyama.ms/wp-content/uploads/2017/11/kirachu1.jpg" alt="" width="800" height="531" srcset="/wp-content/uploads/2017/11/kirachu1.jpg 949w, /wp-content/uploads/2017/11/kirachu1-300x199.jpg 300w, /wp-content/uploads/2017/11/kirachu1-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><strong><span style="color: #ff0000;">『キラチュウコンテスト！』</span></strong></p>
+<p>現在、神山コンプレックスオフィスにある神山メイカースペースでは、神領小学校のみなさんが描いてくれたキラチュウの投票を行っています。投票が多く、選ばれたキラチュウはキラチュウキーホルダーのデザインとして採用されます。こちらもどしどし投票してくださいね！</p>
+<p><img loading="lazy" class="alignnone wp-image-1353" src="http://kamiyama.ms/wp-content/uploads/2017/11/kirachu.contest3-300x225.jpg" alt="" width="500" height="375" srcset="/wp-content/uploads/2017/11/kirachu.contest3-300x225.jpg 300w, /wp-content/uploads/2017/11/kirachu.contest3-1024x768.jpg 1024w, /wp-content/uploads/2017/11/kirachu.contest3-768x576.jpg 768w, /wp-content/uploads/2017/11/kirachu.contest3-1536x1152.jpg 1536w, /wp-content/uploads/2017/11/kirachu.contest3-2048x1536.jpg 2048w" sizes="(max-width: 500px) 100vw, 500px" /><img loading="lazy" class="alignnone wp-image-1352" src="http://kamiyama.ms/wp-content/uploads/2017/11/kirachu.contest2-e1511317290192-225x300.jpg" alt="" width="281" height="375" srcset="/wp-content/uploads/2017/11/kirachu.contest2-e1511317290192-225x300.jpg 225w, /wp-content/uploads/2017/11/kirachu.contest2-e1511317290192-768x1024.jpg 768w, /wp-content/uploads/2017/11/kirachu.contest2-e1511317290192-1152x1536.jpg 1152w, /wp-content/uploads/2017/11/kirachu.contest2-e1511317290192-1536x2048.jpg 1536w, /wp-content/uploads/2017/11/kirachu.contest2-e1511317290192-scaled.jpg 1920w" sizes="(max-width: 281px) 100vw, 281px" /></p>
+<p>イベントの詳細は以下です。</p>
+<p>どちらも親子参加でもいいですし、お子さんだけの参加も大歓迎です！</p>
+<p>以下、詳細です。ーーーーーーーーーーーーー</p>
+<p><span style="color: #0000ff;"><strong>キラチュウを探そう！</strong></span></p>
+<p>日時：12月７日（木曜日）16:00-18:00</p>
+<p>場所：城西高校神山分校　武道館集合　（徳島県名西郡神山町神領北３９９）</p>
+<p>持ち物：懐中電灯</p>
+<p>先着40名！</p>
+<p>申し込み方法 : イベント保険に加入すすため、必ず事前にお申し込みください。神山メイカースペースへ直接お申込みいただくかメールにてお知らせください。 e-mail: info@kamiyama.ms</p>
+<p><span style="color: #0000ff;"><strong>キラチュウを作ろう！</strong></span></p>
+<p>日時：11月30日（木曜日）16:00-18:00</p>
+<p>場所：神山メイカースペース（KMS）</p>
+<p>参加：無料　申し込み不要</p>
+<p>広野小学校でもあるよ！</p>
+<p>日時：12月4日（月曜日）16:00-18:00</p>
+<p>場所：広野小学校</p>
+<p><span style="color: #0000ff;"><strong>キラチュウコンテスト</strong></span></p>
+<p>場所：<span style="color: #0000ff;"><a href="http://www.in-kamiyama.jp/kvsoc/">神山メイカースペース（KMS）</a></span></p>
+<p>ーーーーーーーーーーーーーーーー</p>
+<p>問い合わせ： 神山メイカースペース(KMS) 徳島県名西郡神山町下分 地野４９−１(担当者　あべさやか)</p>
+<p>e-mail: info@kamiyama.ms</p>
+<p>おもいやりライト運動とは　 交通事故が一番多い時間帯は、夕方の16時～18時と言われています。 夕焼けで美しく輝く時間帯は、ドライバーにとって歩行者が見えづらく、歩行者にとってクルマの接近に気づけない、そんな時間帯なのです。「おもいやりライト運動」は、この夕暮れ時のヘッドライト早期点灯をドライバーに呼びかけて交通事故を削減する運動です。光のコミュニケーションでドライバーと歩行者同士が心を交わすことで夕暮れ時をもっとステキにしませんか？「早めにつけよう おもいやりライト」あなたの大切な人に、教えてあげてください。 http://www.omoiyari-light.com/</p>
+<p>&nbsp;</p>
+<p>主催 神山メイカースペース(KMS) 協力　おもいやりライト運動事務局　森林女子（城西高校神山分校）</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-1347" src="http://kamiyama.ms/wp-content/uploads/2017/11/kirachu-omote.s.jpg" alt="" width="531" height="746" srcset="/wp-content/uploads/2017/11/kirachu-omote.s.jpg 531w, /wp-content/uploads/2017/11/kirachu-omote.s-214x300.jpg 214w" sizes="(max-width: 531px) 100vw, 531px" /><img loading="lazy" class="alignnone size-large wp-image-1380" src="http://kamiyama.ms/wp-content/uploads/2017/11/kirachu-ura.s-1-917x1280.jpg" alt="" width="917" height="1280" /></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1354</post-id>	</item>
+		<item>
+		<title>ハンドスピナーをみんなで作りました</title>
+		<link>/2017/08/17/%e3%83%8f%e3%83%b3%e3%83%89%e3%82%b9%e3%83%94%e3%83%8a%e3%83%bc%e3%82%92%e3%81%bf%e3%82%93%e3%81%aa%e3%81%a7%e4%bd%9c%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f/</link>
+		
+		<dc:creator><![CDATA[Daisuke]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2017 02:04:19 +0000</pubDate>
+				<category><![CDATA[イベントレポート]]></category>
+		<category><![CDATA[工作]]></category>
+		<category><![CDATA[未分類]]></category>
+		<category><![CDATA[活動]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1175</guid>
+
+					<description><![CDATA[みなさんこんばんは、阿波踊りの筋肉痛で毎朝起き上がるのも大変な本橋です。 そんな阿波踊りの直前もいいところの８月１日、１１日に夏休みの小学生向けワークショップを開催しました。その様子をグリーンバレーにインターンで来ている [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>みなさんこんばんは、阿波踊りの筋肉痛で毎朝起き上がるのも大変な本橋です。</p>
+<p>そんな阿波踊りの直前もいいところの８月１日、１１日に夏休みの小学生向けワークショップを開催しました。その様子をグリーンバレーにインターンで来ている鈴江くんがイン神山にレポートしてくれています。</p>
+<blockquote data-secret="KBd4SV0OI7" class="wp-embedded-content"><p><a href="http://www.in-kamiyama.jp/diary/27889/">世界に一つのハンドスピナー</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://www.in-kamiyama.jp/diary/27889/embed/#?secret=KBd4SV0OI7" data-secret="KBd4SV0OI7" width="500" height="282" title="&#8220;世界に一つのハンドスピナー&#8221; &#8212; イン神山　四国・徳島 神山町のありのままの姿を分かちあう" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<blockquote data-secret="PrU4oNT5Z3" class="wp-embedded-content"><p><a href="http://kamiyama.ms/2017/07/18/81-811-%e5%a4%8f%e4%bc%91%e3%81%bf%e7%89%b9%e5%88%a5%e4%bc%81%e7%94%bb%e3%80%81%e8%87%aa%e5%88%86%e3%81%a0%e3%81%91%e3%81%ae%e3%83%8f%e3%83%b3%e3%83%89%e3%82%b9%e3%83%94%e3%83%8a%e3%83%bc/">[8/1, 8/11]  夏休み特別企画、自分だけのハンドスピナーを作ろう！</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://kamiyama.ms/2017/07/18/81-811-%e5%a4%8f%e4%bc%91%e3%81%bf%e7%89%b9%e5%88%a5%e4%bc%81%e7%94%bb%e3%80%81%e8%87%aa%e5%88%86%e3%81%a0%e3%81%91%e3%81%ae%e3%83%8f%e3%83%b3%e3%83%89%e3%82%b9%e3%83%94%e3%83%8a%e3%83%bc/embed/#?secret=PrU4oNT5Z3" data-secret="PrU4oNT5Z3" width="500" height="282" title="&#8220;[8/1, 8/11]  夏休み特別企画、自分だけのハンドスピナーを作ろう！&#8221; &#8212; KMS" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>今回のイベントも多くの親子連れにご参加いただき、神山杉のハンドスピナーをみんなで自作しました。</p>
+<p>参加ひと組あたり、２つのハンドスピナーを作っています。両日ともに８組のご参加で、それぞれ１６個を作り、２日間で合計３２個のオリジナルハンドスピナーが産み出されたことになります。</p>
+<p>みんなで作成したハンドスピナーは例によって子供向けSNSの<a href="https://ctbl.es/2e6GO9pSGO9pS">クリエイタブルズのギャラリー</a>にアップしています。リンク先をご覧いただければ分かる通り、さっそく世界中から多くのバブルが集まってます！</p>
+<p><a href="https://ctbl.es/2e6GO9pS"><img loading="lazy" class="aligncenter size-full wp-image-1177" src="http://kamiyama.ms/wp-content/uploads/2017/08/Screenshot.png" alt="" width="614" height="791" srcset="/wp-content/uploads/2017/08/Screenshot.png 614w, /wp-content/uploads/2017/08/Screenshot-233x300.png 233w" sizes="(max-width: 614px) 100vw, 614px" /></a></p>
+<p>英語のコメントがついている作品もありました。</p>
+<p>クリエイタブルズにご興味をお持ちでしたらアカウントを発行しますのでお申し出下さい。作ったスピナーと連携させた状態で作成してお渡しします。</p>
+<p>参加者の皆さんがそれぞれ思い思いに色を塗って、自分だけのハンドスピナーを手に入れて、後からお話を聞くともうずっと手放さずにくるくる回し続けて転んで壊してしまった子もいたとかで（笑）、そこまで楽しんでもらえると開催して良かったなーと思います。</p>
+<p>壊してしまった子は杉板の円盤部分が破れてしまったということでしたので、スペアの円盤をお渡ししました。他にも予備がほしいという参加者の方がいらっしゃいましたらこちらも無料でお渡ししますのでどうぞご連絡下さい。いっぱいあります。</p>
+<p>ちなみに昨年2016年は、レーザーカッターで自分だけの宝箱を作る、という企画を開催しました。</p>
+<blockquote data-secret="rlGKB7bvVH" class="wp-embedded-content"><p><a href="http://kamiyama.ms/2016/07/28/%e5%a4%8f%e4%bc%91%e3%81%bf%e7%89%b9%e5%88%a5%e4%bc%81%e7%94%bb%e3%80%81%e8%87%aa%e5%88%86%e3%81%a0%e3%81%91%e3%81%ae%e5%ae%9d%e7%ae%b1%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81/">夏休み特別企画、自分だけの宝箱を作ろう！</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://kamiyama.ms/2016/07/28/%e5%a4%8f%e4%bc%91%e3%81%bf%e7%89%b9%e5%88%a5%e4%bc%81%e7%94%bb%e3%80%81%e8%87%aa%e5%88%86%e3%81%a0%e3%81%91%e3%81%ae%e5%ae%9d%e7%ae%b1%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81/embed/#?secret=rlGKB7bvVH" data-secret="rlGKB7bvVH" width="500" height="282" title="&#8220;夏休み特別企画、自分だけの宝箱を作ろう！&#8221; &#8212; KMS" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>来年も何か自分で作って楽しめるイベントを企画したいと思います。</p>
+<p>お楽しみに！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1175</post-id>	</item>
+		<item>
+		<title>[8/1, 8/11]  夏休み特別企画、自分だけのハンドスピナーを作ろう！</title>
+		<link>/2017/07/18/81-811-%e5%a4%8f%e4%bc%91%e3%81%bf%e7%89%b9%e5%88%a5%e4%bc%81%e7%94%bb%e3%80%81%e8%87%aa%e5%88%86%e3%81%a0%e3%81%91%e3%81%ae%e3%83%8f%e3%83%b3%e3%83%89%e3%82%b9%e3%83%94%e3%83%8a%e3%83%bc/</link>
+		
+		<dc:creator><![CDATA[Daisuke]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2017 05:00:58 +0000</pubDate>
+				<category><![CDATA[workshop]]></category>
+		<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[工作]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1101</guid>
+
+					<description><![CDATA[こんにちは、今年も暑い季節がやってきましたね。昨年の夏のワークショップはご好評をいただいた「ドラクエ風の宝箱を作ろう」でした。今年の夏休みは「ハンドスピナー」を自分で作ります！ 手作りハンドスピナーを構成する部品はたった [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>こんにちは、今年も暑い季節がやってきましたね。昨年の夏のワークショップはご好評をいただいた「<a href="http://kamiyama.ms/2016/07/28/%E5%A4%8F%E4%BC%91%E3%81%BF%E7%89%B9%E5%88%A5%E4%BC%81%E7%94%BB%E3%80%81%E8%87%AA%E5%88%86%E3%81%A0%E3%81%91%E3%81%AE%E5%AE%9D%E7%AE%B1%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%81/">ドラクエ風の宝箱を作ろう</a>」でした。今年の夏休みは「ハンドスピナー」を自分で作ります！</p>
+<p>手作りハンドスピナーを構成する部品はたったの3種類です。</p>
+<ul>
+<li>ボールベアリング</li>
+<li>ベアリングホルダー</li>
+<li>フレーム</li>
+</ul>
+<p><img loading="lazy" class="aligncenter size-full wp-image-1107" src="http://kamiyama.ms/wp-content/uploads/2017/07/2017-07-12-12.27.161.png" alt="" width="600" height="800" srcset="/wp-content/uploads/2017/07/2017-07-12-12.27.161.png 600w, /wp-content/uploads/2017/07/2017-07-12-12.27.161-225x300.png 225w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>ヘビースピナーの場合はこれに重りが加わります。</p>
+<p>ワークショップでは、神山杉から切り出した円盤を回す軽量なライトスピナーと、ボルトを重りに回転時間を延ばしたヘビースピナーの２つのハンドスピナーを組み立てます。円盤の重さがどれだけスピナーの回転に影響するのか、回転を比べてみましょう。</p>
+<p>さらにサインペンで色を塗って、自分だけのハンドスピナーをデザイン！</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-1109" src="http://kamiyama.ms/wp-content/uploads/2017/07/2017-07-13-18.03.531.png" alt="" width="800" height="600" srcset="/wp-content/uploads/2017/07/2017-07-13-18.03.531.png 800w, /wp-content/uploads/2017/07/2017-07-13-18.03.531-300x225.png 300w, /wp-content/uploads/2017/07/2017-07-13-18.03.531-768x576.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>もちろん作成したハンドスピナーは２つともお持ち帰りいただけます。</p>
+<p>さてこのハンドスピナー、話題のおもちゃだけあって実は買おうと思えばとても安く手に入ります。Amazonで探してみると300円くらいからありました。円盤部分も金属製で、きらきらしていて、形も凝っていてカッコいい製品がいっぱいあります。</p>
+<p><iframe loading="lazy" style="width: 120px; height: 240px;" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=bibrirkbr-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B071NQ32LZ&amp;linkId=760c73d5e0778f70ad486d52ed5898ec" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>しかし「買う」と「作る」は結果は一緒でも正反対の体験です。作り方を理解してしまえば、市販品を分解してみて「なるほど！」と知識を深めることも、壊れたら修理も出来ます。</p>
+<p>なにより僕がこうやってイベントを企画しているように、自分で部品を揃えて何個でもオリジナルのオモチャを作り出すことだってできてしまいます。</p>
+<p>話題のハンドスピナーを自分で作って見る体験は今だけのもの。今年も夏休みに普段は出来ない時間の使い方をしてみませんか？</p>
+<p>【日程】</p>
+<ul>
+<li> 2017年8月1日（火曜日） 10:00〜12:00</li>
+<li> 2017年8月11日（金曜日、祝日） 10:00〜12:00</li>
+<li>（予備日）2017年8月19日（土曜日） 10:00〜12:00<br />
+※希望者多数の場合は予備日にも開催します</li>
+</ul>
+<p>【ナビゲーター】</p>
+<p>本橋大輔</p>
+<p>【つくるもの】</p>
+<p>重り付きハンドスピナーと、軽量杉板ハンドスピナーの２つ</p>
+<p>【参加費用】</p>
+<p>2,000 円（材料費、会場利用料込み）</p>
+<p>【定員】</p>
+<p>各日程それぞれ10組</p>
+<p>【対象年齢】</p>
+<p>どなたでも（10歳未満の場合は保護者の方もご一緒にご参加下さい）</p>
+<p>【所用時間】</p>
+<p>1時間30分程度を予定してます。</p>
+<p>【場所】</p>
+<p>神山バレーサテライトオフィスコンプレックス<br />
+（徳島県名西郡神山町下分字地野49-１）</p>
+<p>【持ち物】</p>
+<p>特にありません。サインペンのインクがついても良い服装で！</p>
+<p>【お問合せ・お申込み方法】</p>
+<p>下記いずれかの方法でお申し込み下さい。</p>
+<ul>
+<li><a href="https://goo.gl/U5Co3p">申し込みフォーム</a>に記入する</li>
+<li>KMSのEmail(info@kamiyama.ms)に連絡する</li>
+<li>本橋に口頭などで直接連絡する</li>
+</ul>
+<p>皆さんのご参加をお待ちしてます！</p>
+<p style="text-align: center; font-size: xx-large;"><a href="https://goo.gl/U5Co3p">申し込みはこちらからどうぞ！</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1101</post-id>	</item>
+		<item>
+		<title>アムステルダム報告２　３DプリンターPrusaを組み立てる。</title>
+		<link>/2017/05/30/%e3%82%a2%e3%83%a0%e3%82%b9%e3%83%86%e3%83%ab%e3%83%80%e3%83%a0%e5%a0%b1%e5%91%8a%ef%bc%92%e3%80%80%ef%bc%93d%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bf%e3%83%bcprusa%e3%82%92%e7%b5%84%e3%81%bf%e7%ab%8b/</link>
+		
+		<dc:creator><![CDATA[kms]]></dc:creator>
+		<pubDate>Tue, 30 May 2017 10:51:08 +0000</pubDate>
+				<category><![CDATA[工作]]></category>
+		<category><![CDATA[未分類]]></category>
+		<category><![CDATA[活動]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=935</guid>
+
+					<description><![CDATA[再び、こんにちは。あべです。 アムステルダム報告２は、３D プリンターをひいひい言いながら２台組み立てた報告です。 最近、３Dプリンター好きの間では、アメリカ発のPrusaから出ているものが比較的手頃な値段でスペックもと [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>再び、こんにちは。あべです。</p>
+<p>アムステルダム報告２は、３D プリンターをひいひい言いながら２台組み立てた報告です。</p>
+<p>最近、３Dプリンター好きの間では、アメリカ発のPrusaから出ているものが比較的手頃な値段でスペックもとても良いと人気です。その<a href="http://shop.prusa3d.com/en/17-3d-printers" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">Prusa MK2s Kit</span></a>を<span style="color: #0000ff;"><a href="http://kamiyama.ms/2016/12/13/%e3%82%bf%e3%83%90%e3%82%b3%e7%89%88%e6%9c%a8%e6%b4%bb%e7%94%a8%e3%81%ae%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc%ef%bc%9a%e3%83%ac%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%ab%e3%83%83%e3%82%bf/" target="_blank" rel="noopener noreferrer">Fab guru</a><span style="color: #000000;">の</span></span>アレックス氏のアシスタントとして組み立てることになりました。何しろそんなに３Dプリンターに慣れていない私の、新たな挑戦の旅が始まりました。しかも予定より１週間遅れて配達されたため、私がアムスで組み立てるために残された時間は超わずか！（怒涛の旅と言った方が近いです。）</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-906" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-14.jpg" alt="" width="1024" height="680" srcset="/wp-content/uploads/2017/05/3D-14.jpg 1024w, /wp-content/uploads/2017/05/3D-14-300x199.jpg 300w, /wp-content/uploads/2017/05/3D-14-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />道具も全てセットで届く。なんだかプラモデルの組み立てを思い出します。</p>
+<p>開けてみると、<img loading="lazy" class="alignnone size-full wp-image-905" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-13.jpg" alt="" width="1024" height="680" srcset="/wp-content/uploads/2017/05/3D-13.jpg 1024w, /wp-content/uploads/2017/05/3D-13-300x199.jpg 300w, /wp-content/uploads/2017/05/3D-13-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />ハリボーが一緒に。砂糖とってガンバレ！と言うことか。<img loading="lazy" class="alignnone size-full wp-image-904" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-12.jpg" alt="" width="1024" height="680" srcset="/wp-content/uploads/2017/05/3D-12.jpg 1024w, /wp-content/uploads/2017/05/3D-12-300x199.jpg 300w, /wp-content/uploads/2017/05/3D-12-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><br />
+アメリカで生産されたものなのでしょうが、３Dプリントされたパーツや他、細々したものはヨーロッパ発送元の１つのポーランドで用意したものだと思われます。丁寧に梱包されていて、組み立てるのにワクワクしました。<img loading="lazy" class="alignnone size-full wp-image-903" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-11.jpg" alt="" width="1024" height="680" srcset="/wp-content/uploads/2017/05/3D-11.jpg 1024w, /wp-content/uploads/2017/05/3D-11-300x199.jpg 300w, /wp-content/uploads/2017/05/3D-11-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />Happy Printingって手書きでサインされてる！頑張らねば〜<img loading="lazy" class="alignnone size-large wp-image-936" src="http://kamiyama.ms/wp-content/uploads/2017/05/PMvNWTiBLeKm3uo1-1280x960.jpg" alt="" width="1280" height="960" />組み立てのステップごとに、パーツが小分けされています。ビスの大きななども分かり安いように、パッケージの上に等身大のドローイングが。綺麗なデザインです。<img loading="lazy" class="alignnone size-large wp-image-937" src="http://kamiyama.ms/wp-content/uploads/2017/05/Screen-Shot-2017-05-30-at-7.03.48-PM-1280x662.png" alt="" width="1280" height="662" /></p>
+<p>オンラインに上がっているインストラクションも分かりやすい。<a href="http://manual.prusa3d.com/Guide/2.+Y+axis/40" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">ここ</span></a><img loading="lazy" class="alignnone size-full wp-image-901" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-9.jpg" alt="" width="1024" height="627" srcset="/wp-content/uploads/2017/05/3D-9.jpg 1024w, /wp-content/uploads/2017/05/3D-9-300x184.jpg 300w, /wp-content/uploads/2017/05/3D-9-768x470.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />X軸をモーターを固定して、組み立てて、<img loading="lazy" class="alignnone size-full wp-image-900" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-8.jpg" alt="" width="1024" height="680" srcset="/wp-content/uploads/2017/05/3D-8.jpg 1024w, /wp-content/uploads/2017/05/3D-8-300x199.jpg 300w, /wp-content/uploads/2017/05/3D-8-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />Z軸もフレームベースにモーターを付けて、<img loading="lazy" class="alignnone size-large wp-image-938" src="http://kamiyama.ms/wp-content/uploads/2017/05/3WLrQcBAXaOnEwVk-1280x960.jpg" alt="" width="1280" height="960" />改めて、３Dプリントされたパーツの使いやすさに、びっくりです。ビスなんかもぴったり入るようにデザインされているから、パーツがしっかり固定される！</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-902" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-10.jpg" alt="" width="1024" height="657" srcset="/wp-content/uploads/2017/05/3D-10.jpg 1024w, /wp-content/uploads/2017/05/3D-10-300x192.jpg 300w, /wp-content/uploads/2017/05/3D-10-768x493.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />これがY軸になります。途中、何度か間違った方向に組み立てたりして、やり直したり。<img loading="lazy" class="alignnone size-full wp-image-899" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-7.jpg" alt="" width="1024" height="680" srcset="/wp-content/uploads/2017/05/3D-7.jpg 1024w, /wp-content/uploads/2017/05/3D-7-300x199.jpg 300w, /wp-content/uploads/2017/05/3D-7-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />XYZ軸を組み立てて、そうすると３Dプリンターらしい形になってきました。<img loading="lazy" class="alignnone size-large wp-image-940" src="http://kamiyama.ms/wp-content/uploads/2017/05/Nr2DuD5XO6lbnqyT-1280x960.jpg" alt="" width="1280" height="960" />フィラメントが出てくる、エクストルーダーの部分の組み立て。ファンも装着したり。</p>
+<p><img loading="lazy" class="alignnone size-large wp-image-941" src="http://kamiyama.ms/wp-content/uploads/2017/05/iMoPpKBCi4TGYQbQ-1280x960.jpg" alt="" width="1280" height="960" />ここは結構、細かい作業です。実際にモーター近辺の作業は気を使うし、工程が多めです。ケーブルもいっぱい。<img loading="lazy" class="alignnone size-full wp-image-896" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-4.jpg" alt="" width="1024" height="680" srcset="/wp-content/uploads/2017/05/3D-4.jpg 1024w, /wp-content/uploads/2017/05/3D-4-300x199.jpg 300w, /wp-content/uploads/2017/05/3D-4-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />LCD（液晶ディスプレイ）を設置し、電源を設置し、<img loading="lazy" class="size-full wp-image-942 alignleft" src="http://kamiyama.ms/wp-content/uploads/2017/05/miAiHaZ6ioCX4YYa.jpg" alt="" width="592" height="444" srcset="/wp-content/uploads/2017/05/miAiHaZ6ioCX4YYa.jpg 592w, /wp-content/uploads/2017/05/miAiHaZ6ioCX4YYa-300x225.jpg 300w" sizes="(max-width: 592px) 100vw, 592px" /></p>
+<p>基盤の部分を組み立てていきます。<img loading="lazy" class="size-full wp-image-894 aligncenter" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-2.jpg" alt="" width="510" height="768" srcset="/wp-content/uploads/2017/05/3D-2.jpg 510w, /wp-content/uploads/2017/05/3D-2-199x300.jpg 199w" sizes="(max-width: 510px) 100vw, 510px" /></p>
+<p>12時間ほどの格闘が終えて、いざ電源を入れてみるも、LCDが何も反応しない〜！ネットで検索し基盤のコネクションを色々と差し替えてみるも、解決できず、頭を抱えている時に、KMSのコアメンバーである山下くんが救いの手を！</p>
+<p>なんと同じ機種を既に持っていて、組み立てたことがるとか。スカイプで話しながらLCDのケーブルの差し込み方に問題があることを発見しました。本当、山下くんありがとうございますー！<img loading="lazy" class="alignnone size-full wp-image-895" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-3.jpg" alt="" width="1024" height="680" srcset="/wp-content/uploads/2017/05/3D-3.jpg 1024w, /wp-content/uploads/2017/05/3D-3-300x199.jpg 300w, /wp-content/uploads/2017/05/3D-3-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />この機種の良いところは、自動校正補正が付いていること。自動校正補正もokが出て、いざテストプリント！<img loading="lazy" class="size-full wp-image-915 aligncenter" src="http://kamiyama.ms/wp-content/uploads/2017/05/C9.jpg" alt="" width="510" height="768" srcset="/wp-content/uploads/2017/05/C9.jpg 510w, /wp-content/uploads/2017/05/C9-199x300.jpg 199w" sizes="(max-width: 510px) 100vw, 510px" />しかし、 先ほどokが出たはずの自動校正補正が失敗に終わり、いろいろ試したのですが、、うーむ帰国の時間も迫っているので、２台目を組み立てることに。<img loading="lazy" class="alignnone size-full wp-image-893" src="http://kamiyama.ms/wp-content/uploads/2017/05/3D-1.jpg" alt="" width="1024" height="680" srcset="/wp-content/uploads/2017/05/3D-1.jpg 1024w, /wp-content/uploads/2017/05/3D-1-300x199.jpg 300w, /wp-content/uploads/2017/05/3D-1-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>流石に２台目は早く組み立てられうようになり、帰国ぎりぎり２台プリンターを組み立てて、テストプリントまで終わりましたが、プリントできていない！と言う心残りが。プリンターをラボマネジャーのサンダー氏へ託して、アムスを後にしました。この夏に神山の子供達とラボでワークショップを行う予定です。そこで、今度こそはプリントするぞ！との意気込み。</p>
+<p>３Dプリンターは、XYZ軸の正確さが大切だなと痛感しました。これを終えて、だいたい３Dプリンターの構造は頭に入ったので、KMSのプリンターが故障しても、物怖じせずトラブルシューティングできそうです。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">935</post-id>	</item>
+		<item>
+		<title>冷蔵庫のコンプレッサで作る真空脱泡機</title>
+		<link>/2017/04/26/vacuum-desiccator-from-fridge-compressor/</link>
+		
+		<dc:creator><![CDATA[myamashita]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2017 04:43:34 +0000</pubDate>
+				<category><![CDATA[工作]]></category>
+		<category><![CDATA[DIY]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=852</guid>
+
+					<description><![CDATA[山下です。 Make: Japanで面白いプロジェクトが紹介されていました。 Make: Japan &#124; 30ドル以下で作る真空チャンバー これは液状シリコーンの脱泡(気泡を抜く)にちょうどよさそう。 私は信越シリコーン [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>山下です。</p>
+<p>Make: Japanで面白いプロジェクトが紹介されていました。<br />
+<a href="http://makezine.jp/blog/2017/03/build-vacuum-chamber-30.html">Make: Japan | 30ドル以下で作る真空チャンバー</a></p>
+<p>これは液状シリコーンの脱泡(気泡を抜く)にちょうどよさそう。</p>
+<p>私は信越シリコーンのKE-1310STという室温硬化型(RTV)シリコーンを愛用しています。KE-1310STは、引張強さ、引裂強さ共に非常に優れていながら硬度が40あって、型取り用途にとどまらず使えるポテンシャルがあります。ただいかんせん粘度がめちゃくちゃ高くて(75Pa・s)、硬化剤を添加して攪拌するときに入る気泡を抜くのが容易ではありません。<br />
+これのちょうど1/10の7.5Pa・sの食品用シリコーンを使ったときは、手動の真空おひつで十分でしたが、75を手動で抜くのは絶対に無理です。</p>
+<p>ちょうど家に使っていない冷蔵庫があったので、コンプレッサを取り外して、真空脱泡の実験をしてみました。</p>
+<p><img src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250498-1280x960.jpg" alt="" width="640" class="alignnone size-large wp-image-854" /></p>
+<p>コンプレッサは冷蔵庫の後ろの一番下にありました。真鍮の管は10cm程度残してニッパーで切ってしまってOK.　電線は配線図を見て、運転コンデンサと基盤の間で切ります。</p>
+<p>最近のエコ家電だとインバータが入ってたりしてややこしいのかもしれませんが、これは古いレシプロ型だったので、運転コンデンサユニットから出ている二本の線にAC100Vをかけてやれば動きました。</p>
+<figure id="attachment_855" aria-describedby="caption-attachment-855" style="width: 640px" class="wp-caption alignnone"><img src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250501-1280x960.jpg" alt="" width="640" class="size-large wp-image-855" /><figcaption id="caption-attachment-855" class="wp-caption-text">これがコンプレッサ</figcaption></figure>
+<p>結構重いし振動するので、丈夫な木の板の上にがっちりマウントしました。</p>
+<p>コンプレッサから突き出ているパイプのうち、吸引パイプにはビニールチューブ(水槽用でOK)、排気パイプには、油が出てくるのでボロ雑巾を付けます。</p>
+<p><img src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250503-1280x960.jpg" alt="" width="640" class="alignnone size-large wp-image-856" /></p>
+<p>プレッシャーリリースは、継手から出したビニール管を折り曲げるというすごく雑な機構にしています。先のリンク先ではペットボトルのキャップを使ったものを作っていて、かっこいいです。</p>
+<p><img src="http://kamiyama.ms/wp-content/uploads/2017/04/P4260505-1280x960.jpg" alt="" width="640" class="alignnone size-large wp-image-857" /></p>
+<p>デシケータも簡易に、ジャム瓶の蓋に穴を開けてビニール管を突っ込み、穴の周りをシリコーンでコーキングして作りました。</p>
+<p>実際に動かしてみましょう！</p>
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/o8EC0ESuQWI" frameborder="0" allowfullscreen></iframe></p>
+<p>バッチオッケー！これで、減圧状態と大気圧を数回往復させれば、綺麗に抜けます。真空計は取り付けていないのでどこまで減圧できているかはわかりませんが、脱泡機としては十分使えそうです。</p>
+<p>下の写真左がこの真空脱泡機で脱泡後硬化させたもの。右は真空おひつで頑張ったけど抜ききれなかったもの。色味とテクスチャの違いは型が違うので無視してください。<br />
+<img src="http://kamiyama.ms/wp-content/uploads/2017/04/P4260510-1280x960.jpg" alt="" width="640" class="alignnone size-large wp-image-860" /></p>
+<p>結構便利です。みなさんも作ってみてはいかがでしょうか？</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">852</post-id>	</item>
+	</channel>
+</rss>

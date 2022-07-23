@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>DIY &#8211; New KMS Blog</title>
+	<atom:link href="/tag/diy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 26 Apr 2017 04:43:34 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">207431303</site>	<item>
+		<title>冷蔵庫のコンプレッサで作る真空脱泡機</title>
+		<link>/2017/04/26/vacuum-desiccator-from-fridge-compressor/</link>
+		
+		<dc:creator><![CDATA[myamashita]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2017 04:43:34 +0000</pubDate>
+				<category><![CDATA[工作]]></category>
+		<category><![CDATA[DIY]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=852</guid>
+
+					<description><![CDATA[山下です。 Make: Japanで面白いプロジェクトが紹介されていました。 Make: Japan &#124; 30ドル以下で作る真空チャンバー これは液状シリコーンの脱泡(気泡を抜く)にちょうどよさそう。 私は信越シリコーン [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>山下です。</p>
+<p>Make: Japanで面白いプロジェクトが紹介されていました。<br />
+<a href="http://makezine.jp/blog/2017/03/build-vacuum-chamber-30.html">Make: Japan | 30ドル以下で作る真空チャンバー</a></p>
+<p>これは液状シリコーンの脱泡(気泡を抜く)にちょうどよさそう。</p>
+<p>私は信越シリコーンのKE-1310STという室温硬化型(RTV)シリコーンを愛用しています。KE-1310STは、引張強さ、引裂強さ共に非常に優れていながら硬度が40あって、型取り用途にとどまらず使えるポテンシャルがあります。ただいかんせん粘度がめちゃくちゃ高くて(75Pa・s)、硬化剤を添加して攪拌するときに入る気泡を抜くのが容易ではありません。<br />
+これのちょうど1/10の7.5Pa・sの食品用シリコーンを使ったときは、手動の真空おひつで十分でしたが、75を手動で抜くのは絶対に無理です。</p>
+<p>ちょうど家に使っていない冷蔵庫があったので、コンプレッサを取り外して、真空脱泡の実験をしてみました。</p>
+<p><img src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250498-1280x960.jpg" alt="" width="640" class="alignnone size-large wp-image-854" /></p>
+<p>コンプレッサは冷蔵庫の後ろの一番下にありました。真鍮の管は10cm程度残してニッパーで切ってしまってOK.　電線は配線図を見て、運転コンデンサと基盤の間で切ります。</p>
+<p>最近のエコ家電だとインバータが入ってたりしてややこしいのかもしれませんが、これは古いレシプロ型だったので、運転コンデンサユニットから出ている二本の線にAC100Vをかけてやれば動きました。</p>
+<figure id="attachment_855" aria-describedby="caption-attachment-855" style="width: 640px" class="wp-caption alignnone"><img src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250501-1280x960.jpg" alt="" width="640" class="size-large wp-image-855" /><figcaption id="caption-attachment-855" class="wp-caption-text">これがコンプレッサ</figcaption></figure>
+<p>結構重いし振動するので、丈夫な木の板の上にがっちりマウントしました。</p>
+<p>コンプレッサから突き出ているパイプのうち、吸引パイプにはビニールチューブ(水槽用でOK)、排気パイプには、油が出てくるのでボロ雑巾を付けます。</p>
+<p><img src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250503-1280x960.jpg" alt="" width="640" class="alignnone size-large wp-image-856" /></p>
+<p>プレッシャーリリースは、継手から出したビニール管を折り曲げるというすごく雑な機構にしています。先のリンク先ではペットボトルのキャップを使ったものを作っていて、かっこいいです。</p>
+<p><img src="http://kamiyama.ms/wp-content/uploads/2017/04/P4260505-1280x960.jpg" alt="" width="640" class="alignnone size-large wp-image-857" /></p>
+<p>デシケータも簡易に、ジャム瓶の蓋に穴を開けてビニール管を突っ込み、穴の周りをシリコーンでコーキングして作りました。</p>
+<p>実際に動かしてみましょう！</p>
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/o8EC0ESuQWI" frameborder="0" allowfullscreen></iframe></p>
+<p>バッチオッケー！これで、減圧状態と大気圧を数回往復させれば、綺麗に抜けます。真空計は取り付けていないのでどこまで減圧できているかはわかりませんが、脱泡機としては十分使えそうです。</p>
+<p>下の写真左がこの真空脱泡機で脱泡後硬化させたもの。右は真空おひつで頑張ったけど抜ききれなかったもの。色味とテクスチャの違いは型が違うので無視してください。<br />
+<img src="http://kamiyama.ms/wp-content/uploads/2017/04/P4260510-1280x960.jpg" alt="" width="640" class="alignnone size-large wp-image-860" /></p>
+<p>結構便利です。みなさんも作ってみてはいかがでしょうか？</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">852</post-id>	</item>
+		<item>
+		<title>バキュームピックの製作</title>
+		<link>/2017/04/25/diy-vacuum-pick/</link>
+		
+		<dc:creator><![CDATA[myamashita]]></dc:creator>
+		<pubDate>Mon, 24 Apr 2017 16:25:34 +0000</pubDate>
+				<category><![CDATA[工作]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[電子工作]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=832</guid>
+
+					<description><![CDATA[こんにちはKMSの山下です。 ちょっとした工作機械のDIYにハマっています。 今日は表面実装基板の実装に使うバキュームピックをDIYしてみます。 表面実装基板というのはこんなもの とにかく小さい部品を使うので、ピンセット [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>こんにちはKMSの山下です。<br />
+ちょっとした工作機械のDIYにハマっています。</p>
+<p>今日は表面実装基板の実装に使うバキュームピックをDIYしてみます。<br />
+表面実装基板というのはこんなもの<br />
+<img class="alignnone size-large wp-image-833" src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250475-1280x883.jpg" alt="surface mount pcb" width="640" /><br />
+とにかく小さい部品を使うので、ピンセットで扱うのは大変です。</p>
+<p>そこでバキュームピックというのを使うのですが、こりゃいいやと思って買ったこのピック、僕が扱っている1608(1.6mm×0.8mm)サイズの部品には先端の口が大きすぎました。</p>
+<p><img class="size-large wp-image-834" src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250494-1280x960.jpg" alt="HAKKOのバキュームピック" width="640" /></p>
+<p>先っぽに半田ペーストのシリンジに付いてきたニードルを取り付けてみたんですが、スポイト方式のこれでは吸引力が弱すぎて、すぐポロっと部品が落ちて使い物になりませんでした。</p>
+<p>というわけで、吸引力の強いバキュームピックを自作します。<br />
+必要なものは以下。アマゾンへのリンク貼ってます。</p>
+<ul>
+<li><a href="http://amzn.to/2oDSxa8" target="_blank" rel="noopener noreferrer">水槽用ポンプ</a></li>
+<li><a href="http://amzn.to/2oo4ntN" target="_blank" rel="noopener noreferrer">水槽用ビニールチューブ</a></li>
+<li><a href="http://amzn.to/2oDVrf9" target="_blank" rel="noopener noreferrer">ディスペンサー用ニードル</a></li>
+<li>スイッチ</li>
+</ul>
+<p><img class="alignnone size-large wp-image-836" src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250479-1280x960.jpg" alt="" width="640" /></p>
+<p>僕が買ったのはニッソー エアーポンプ サイレント β-30という小さいポンプで、こいつがちょっと厄介でした。</p>
+<p><img class="alignnone size-large wp-image-835" src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250496-1280x960.jpg" alt="" width="640" /><br />
+仕組みは恐ろしくシンプルで、60Hz/50Hzの交流をそのままコア入りコイルに流して、ゴムのピストンみたいなのに付いた磁石が極性の変化で左右に振れることで空気を吐き出すというものです。</p>
+<p>これを空気を吐き出すのではなく、吸い込むように改造します。</p>
+<p>もう少し大きめのポンプだとコイルの両側にピストンが付いていて、左右を入れ替えるだけでいいみたいですが、β-30には一つしか付いていません。</p>
+<p>上の写真の黒いゴムのカップの上に付いている白い箱をバラすと中が二つに分かれていて、穴が二つ空いています。それぞれゴムの薄膜が表と裏に一枚ずつくっついているので、それをあべこべにします。つまり空気を吸う穴を吐き出す穴に、吐き出す穴を吸う穴に変えてしまうわけです。できたら組み立て直します。</p>
+<p>入れたり切ったりが簡単にできた方がいいので電源コードの途中にスイッチを仕込みます。このポンプは1.2Wなので電流も大したことなさそうですが、FabLab仙台の大網さんからもらった電力用スイッチが余っていたのでそれを使いました。</p>
+<p>次にポンプにチューブを取り付けて、先端にディスペンサーニードルを取り付けます。根元に出っ張りがあったらやすり落としておきます。<br />
+<img class="alignnone size-large wp-image-837" src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250493-1280x960.jpg" alt="" width="640" /><br />
+最後に持ちやすいようにボールペンのガワか何かちょうどいい筒をかぶせてやれば出来上がりです。</p>
+<p><img loading="lazy" class="alignnone size-large wp-image-838" src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250484-1280x960.jpg" alt="" width="1280" height="960" /><br />
+こんな感じに設置して、右手でピック、左手でスイッチを操作できるようにしました。もっとこだわるならピックにモーメンタリプッシュスイッチを付けてもいいかもしれません。</p>
+<p><img class="alignnone size-large wp-image-839" src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250487-1280x960.jpg" alt="" width="640" /><br />
+部品を選んでスイッチを入れると</p>
+<p><img loading="lazy" class="alignnone size-large wp-image-840" src="http://kamiyama.ms/wp-content/uploads/2017/04/P4250489-1280x960.jpg" alt="" width="1280" height="960" /><br />
+ピックアップできました！</p>
+<p>これを半田ペーストを塗布済みの基盤に置いていって、最後にリフロー炉で一気に半田付け、ということをするんですが、それについてはまた次回。</p>
+<p>以降こんな記事を書いていく予定です。お楽しみに！</p>
+<ul>
+<li>リフロー半田付け、ホットプレートとオーブンの比較</li>
+<li>冷蔵庫のコンプレッサから作る真空脱泡器</li>
+<li>シリコン製品のDIY、室温硬化(RTV)シリコンの選定</li>
+<li>3Dプリンタをチップマウンタ(Pick and Place)に改造</li>
+</ul>
+<p>[iframe style=&#8221;width:120px;height:240px;&#8221; marginwidth=&#8221;0&#8243; marginheight=&#8221;0&#8243; scrolling=&#8221;no&#8221; frameborder=&#8221;0&#8243; src=&#8221;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=ympbyc-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B004G24D0Q&amp;linkId=61ee8253f2f808701825ddd50335c2fe&#8221;]<br />
+[iframe style=&#8221;width:120px;height:240px;&#8221; marginwidth=&#8221;0&#8243; marginheight=&#8221;0&#8243; scrolling=&#8221;no&#8221; frameborder=&#8221;0&#8243; src=&#8221;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=ympbyc-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B01H6VZT7O&amp;linkId=21c76a6b36c9914456fd323b6e6b0a9f&#8221;]<br />
+[iframe style=&#8221;width:120px;height:240px;&#8221; marginwidth=&#8221;0&#8243; marginheight=&#8221;0&#8243; scrolling=&#8221;no&#8221; frameborder=&#8221;0&#8243; src=&#8221;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=ympbyc-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B002DQDHAO&amp;linkId=efe21582cbbc4bccfd057e46c92a09b2&#8243;]</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">832</post-id>	</item>
+	</channel>
+</rss>

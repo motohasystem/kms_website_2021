@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Kair（Kamiyama artist in reidence）木版レポート へのコメント	</title>
+	<atom:link href="/2016/11/19/kair%EF%BC%88kamiyama-artist-in-reidence%EF%BC%89%E6%9C%A8%E7%89%88%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/11/19/kair%ef%bc%88kamiyama-artist-in-reidence%ef%bc%89%e6%9c%a8%e7%89%88%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 19 Nov 2016 10:56:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+</channel>
+</rss>

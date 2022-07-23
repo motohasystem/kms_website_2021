@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	木頭中学校　職業体験＠KMS へのコメント	</title>
+	<atom:link href="/2017/01/24/%E8%81%B7%E6%A5%AD%E4%BD%93%E9%A8%93%EF%BC%A0kms/feed/" rel="self" type="application/rss+xml" />
+	<link>/2017/01/24/%e8%81%b7%e6%a5%ad%e4%bd%93%e9%a8%93%ef%bc%a0kms/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 24 Jan 2017 01:42:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+</channel>
+</rss>

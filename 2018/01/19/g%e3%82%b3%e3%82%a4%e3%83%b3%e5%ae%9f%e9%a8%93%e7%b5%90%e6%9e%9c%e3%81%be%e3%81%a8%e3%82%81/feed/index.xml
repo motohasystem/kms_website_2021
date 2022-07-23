@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Gコイン実験結果まとめ へのコメント	</title>
+	<atom:link href="/2018/01/19/g%E3%82%B3%E3%82%A4%E3%83%B3%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C%E3%81%BE%E3%81%A8%E3%82%81/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/01/19/g%e3%82%b3%e3%82%a4%e3%83%b3%e5%ae%9f%e9%a8%93%e7%b5%90%e6%9e%9c%e3%81%be%e3%81%a8%e3%82%81/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 19 Jan 2018 07:48:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+</channel>
+</rss>

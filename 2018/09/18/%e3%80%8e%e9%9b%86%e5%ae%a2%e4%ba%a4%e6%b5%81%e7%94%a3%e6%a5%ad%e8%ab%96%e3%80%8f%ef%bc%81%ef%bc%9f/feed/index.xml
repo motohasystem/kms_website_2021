@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	『集客交流産業論』！？ へのコメント	</title>
+	<atom:link href="/2018/09/18/%E3%80%8E%E9%9B%86%E5%AE%A2%E4%BA%A4%E6%B5%81%E7%94%A3%E6%A5%AD%E8%AB%96%E3%80%8F%EF%BC%81%EF%BC%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/09/18/%e3%80%8e%e9%9b%86%e5%ae%a2%e4%ba%a4%e6%b5%81%e7%94%a3%e6%a5%ad%e8%ab%96%e3%80%8f%ef%bc%81%ef%bc%9f/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 18 Sep 2018 03:10:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+</channel>
+</rss>

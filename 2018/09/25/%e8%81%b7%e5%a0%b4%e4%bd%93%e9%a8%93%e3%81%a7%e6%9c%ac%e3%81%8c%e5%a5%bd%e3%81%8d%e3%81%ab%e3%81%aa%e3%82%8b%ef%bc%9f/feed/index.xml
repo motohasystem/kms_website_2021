@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	職場体験で本が好きになる？ へのコメント	</title>
+	<atom:link href="/2018/09/25/%E8%81%B7%E5%A0%B4%E4%BD%93%E9%A8%93%E3%81%A7%E6%9C%AC%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8B%EF%BC%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/09/25/%e8%81%b7%e5%a0%b4%e4%bd%93%e9%a8%93%e3%81%a7%e6%9c%ac%e3%81%8c%e5%a5%bd%e3%81%8d%e3%81%ab%e3%81%aa%e3%82%8b%ef%bc%9f/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 25 Sep 2018 02:00:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+</channel>
+</rss>

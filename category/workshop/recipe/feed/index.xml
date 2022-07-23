@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>レシピ &#8211; New KMS Blog</title>
+	<atom:link href="/category/workshop/recipe/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 15 May 2019 07:55:34 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">207431303</site>	<item>
+		<title>DIYキエーロの準備と試作と自動生成プログラム</title>
+		<link>/2019/05/15/diy%e3%82%ad%e3%82%a8%e3%83%bc%e3%83%ad%e3%81%ae%e6%ba%96%e5%82%99%e3%81%a8%e8%a9%a6%e4%bd%9c%e3%81%a8%e8%87%aa%e5%8b%95%e7%94%9f%e6%88%90%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0/</link>
+		
+		<dc:creator><![CDATA[Daisuke]]></dc:creator>
+		<pubDate>Wed, 15 May 2019 07:55:34 +0000</pubDate>
+				<category><![CDATA[workshop]]></category>
+		<category><![CDATA[レシピ]]></category>
+		<category><![CDATA[工作]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1892</guid>
+
+					<description><![CDATA[こんにちは、KMS本橋です。 生ゴミを堆肥に変えるコンポスト（コンポスター）はご存知でしょうか？ 神山町ではつい最近まで生ゴミの回収がなく、みなさん畑に設置したコンポストで処理をしていました。そういった経緯で神山には残骸 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>こんにちは、KMS本橋です。</p>
+<p>生ゴミを堆肥に変えるコンポスト（コンポスター）はご存知でしょうか？</p>
+<p>神山町ではつい最近まで生ゴミの回収がなく、みなさん畑に設置したコンポストで処理をしていました。そういった経緯で神山には残骸も含めてコンポストがあちこちにおいてあります。</p>
+<p>そんな中で、神山町を含めて全国的に「キエーロ」というタイプのコンポストがここ数年で人気を博してきています。一般的なコンポストに比べてキエーロは「臭いが出にくく、虫もわきにくい」というコンポストの難点をきれいにクリアしている大きなアドバンテージがあります。</p>
+<p>その秘密は太陽光を取り入れて温度を上げることと、通気性を確保して表面を乾燥させること。この２つの合わせ技で生ゴミの消化効率を向上させています。堆肥化ではなくバクテリアの力で消化するため、土の量はそれほど増えずに生ゴミが消えるため、「キエーロ」という名前なのだそうです。</p>
+<p style="padding-left: 30px;"><a href="http://www.kiero.jp/index.html">キエーロ　葉山</a><br />
+http://www.kiero.jp/index.html</p>
+<p>これまでは僕も生ゴミを回収に出していたのですが、GWの連休を使ってキエーロを作ってみようと思い立ちました。以前開催した棚作りワークショップで木材が大量に余っていることを教えてもらったのもいいタイミングでした。</p>
+<blockquote class="wp-embedded-content" data-secret="CUYiQTD610"><p><a href="http://kamiyama.ms/2018/03/21/%e5%8b%95%e7%94%bb%e3%81%a7%e3%81%b5%e3%82%8a%e3%81%8b%e3%81%88%e3%82%8b%e6%a3%9a%e4%bd%9c%e3%82%8a%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/">動画でふりかえる棚作りワークショップ</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://kamiyama.ms/2018/03/21/%e5%8b%95%e7%94%bb%e3%81%a7%e3%81%b5%e3%82%8a%e3%81%8b%e3%81%88%e3%82%8b%e6%a3%9a%e4%bd%9c%e3%82%8a%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/embed/#?secret=CUYiQTD610" data-secret="CUYiQTD610" width="500" height="282" title="&#8220;動画でふりかえる棚作りワークショップ&#8221; &#8212; KMS" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>作りたいものがあって、道具があって、材料があって、時間もある。こんなタイミングは人生でそうそうあるもんじゃない！　勢い余って2台作りました。</p>
+<h2><strong>接地型1号機（自宅）</strong></h2>
+<p><img loading="lazy" class="alignnone wp-image-1896 size-large" src="http://kamiyama.ms/wp-content/uploads/2019/05/IMG_7599-960x1280.jpeg" alt="" width="960" height="1280" /></p>
+<p>&nbsp;</p>
+<h2><strong>可搬型2号機（神山コンプレックス）</strong></h2>
+<p><img loading="lazy" class="alignnone wp-image-1897 size-large" src="http://kamiyama.ms/wp-content/uploads/2019/05/IMG_7761-1280x960.jpeg" alt="" width="1280" height="960" /></p>
+<p>2号機はKMSのオープンデーに公開ワークショップとして実施したところ、数名の方に見学やお手伝いに来ていただき大変助かりました。キエーロに限らず、KMSメンバーの日々のものづくりを公開するオープンワークショップは今後も定期的に行っていきたいと思います。また次回の情報をお待ち下さい。</p>
+<p>そしてただ作るだけでは面白くないので、KMSの設備を使えば誰でもキエーロを作り上げられるように設計図を公開していきたいと思います。が、そちらは長くなりそうなので今回はひとまずキエーロづくりワークショップの様子をお届けします。</p>
+<p>設計図を自動生成するプログラムは<a href="https://github.com/tenguyasiki/kms_kiero">github</a>においておきますのでよかったらどうぞ。</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1898" src="http://kamiyama.ms/wp-content/uploads/2019/05/28c43bf78bd4c9dc1a880a557058ffad-1280x672.jpg" alt="" width="1280" height="672" /></p>
+<p><a href="https://github.com/tenguyasiki/kms_kiero">https://github.com/tenguyasiki/kms_kiero</a></p>
+<p>プログラムの使い方はまた改めて別記事に立てます。</p>
+<h2>さあ作業開始！</h2>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1904" src="http://kamiyama.ms/wp-content/uploads/2019/05/6BBCE98F-1E65-4AE0-84FC-14F38778C47C-720x1280.jpg" alt="" width="720" height="1280" /></p>
+<p>丸ノコで合板をカットしていきます。キエーロ1台あたり、だいたい1800&#215;900の合板が1枚あれば作れます。角材は可搬型の場合は結構いっぱい必要。</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1905" src="http://kamiyama.ms/wp-content/uploads/2019/05/7F3157E1-8C16-43A1-8C45-1417EA83C565-720x1280.jpg" alt="" width="720" height="1280" /></p>
+<p>カットできました。</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1903" src="http://kamiyama.ms/wp-content/uploads/2019/05/3D508D9B-76CC-4F87-839D-127684478330-720x1280.jpg" alt="" width="720" height="1280" /></p>
+<p>スライド丸ノコで角材をカットしていきます。</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1907" src="http://kamiyama.ms/wp-content/uploads/2019/05/37FF490A-BDA7-44CE-9116-4126681A383E-720x1280.jpg" alt="" width="720" height="1280" /></p>
+<p>カットできました。木材の準備はこれでOK。</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1910" src="http://kamiyama.ms/wp-content/uploads/2019/05/IMG_7652-1280x960.jpeg" alt="" width="1280" height="960" /></p>
+<p>バーナーで表面を炙って焼き杉加工をしていきます。防腐剤のペイントをしても良いのですが焼き杉はスマートな印象があるのでやってみたかった。ニコライさんに手伝ってもらいつつ、午前中でここまでできました。</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1908" src="http://kamiyama.ms/wp-content/uploads/2019/05/0664351D-FB8C-430D-96DD-50F5DB885D2A-720x1280.jpg" alt="" width="720" height="1280" /></p>
+<p>午後はインパクトドライバーでガガガッと組み立てていきます。カット済みの木材が揃ってれば2時間位で組み立てられそうです。</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1911" src="http://kamiyama.ms/wp-content/uploads/2019/05/IMG_7657-960x1280.jpeg" alt="" width="960" height="1280" /></p>
+<p>午後もニコライさんに手伝ってもらいつつ。</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1912" src="http://kamiyama.ms/wp-content/uploads/2019/05/IMG_7658-1280x960.jpeg" alt="" width="1280" height="960" /></p>
+<p>完成！</p>
+<p>キエーロのなかに入れる土が結構大量に必要となるため土の準備が大変でした。このときは畑の側溝に流れて溜まった土を掻き出して入れています。側溝とは言いながらも栄養豊富な畑の土と積み重なった腐葉土が詰まっていてミミズもたっぷりいるとてもいい土でした。正直キエーロに使うにはもったいないレベル。バクテリアもきっと元気いっぱいなやつらがみっしり詰まっているかと思います。</p>
+<p>生ゴミをどれくらい消化してくれるのかはネット上に実験結果をレポートしている方がたくさんいますのでぜひキエーロで検索してみてください。</p>
+<p>楽しいバクテリアライフを！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1892</post-id>	</item>
+		<item>
+		<title>レシピ：レーザーカッターで蔵書印（ゴム/MDF）</title>
+		<link>/2018/02/11/%e3%83%ac%e3%82%b7%e3%83%94%ef%bc%9a%e3%83%ac%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%ab%e3%83%83%e3%82%bf%e3%83%bc%e3%81%a7%e8%94%b5%e6%9b%b8%e5%8d%b0%ef%bc%88%e3%82%b4%e3%83%a0mdf%ef%bc%89/</link>
+		
+		<dc:creator><![CDATA[Daisuke]]></dc:creator>
+		<pubDate>Sun, 11 Feb 2018 09:27:02 +0000</pubDate>
+				<category><![CDATA[workshop]]></category>
+		<category><![CDATA[レシピ]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1547</guid>
+
+					<description><![CDATA[こんにちは、本橋です。これまでKMSではいくつかのワークショップを開催してきました。今回から新しい試みとして、ワークショップをレシピ化して共有していこうと思います。 KMSの会員の方であればこのレシピを見て自作することも [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>こんにちは、本橋です。これまでKMSではいくつかのワークショップを開催してきました。今回から新しい試みとして、ワークショップをレシピ化して共有していこうと思います。</p>
+<p>KMSの会員の方であればこのレシピを見て自作することもできるでしょうし、あらたにKMSでモノづくりを始めたいというキッカケになれば尚の事です。</p>
+<p>所要時間と、必要な機材、マテリアルは冒頭にリストアップしておきますのでこちらも参考にして下さい。</p>
+<h2>所要時間（40分）</h2>
+<ul>
+<li>印面の検討（5分～∞）</li>
+<li>スタンプ面のデータを準備する（20分）</li>
+<li>スタンプ面をカットする（5分）</li>
+<li>グリップ部分をカットする（5分）</li>
+<li>組みあわせてボンドで貼り合わせる（5分）</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>レーザーカッター（KMSではEPILOG zing 40wattを使っています）</li>
+<li>木工用ボンド</li>
+<li>紙やすり</li>
+</ul>
+<h2>マテリアル</h2>
+<ul>
+<li>MDF 6mm（ホームセンターで200円くらい。端材コーナーに落ちてたら無料！）</li>
+<li>スタンプ用ゴム板（下記ショップでは2,484円。）
+<ul>
+<li><a href="https://laser-style.net/?pid=49298255">ポーランド製レーザー用ラバー2.8mm厚／Ａ４サイズ</a></li>
+</ul>
+</li>
+</ul>
+<h2>手順1. スタンプ面のデータを準備する</h2>
+<p><img loading="lazy" class="aligncenter size-full wp-image-1549" src="http://kamiyama.ms/wp-content/uploads/2018/02/7bee6f93b4db97534814a798d8610cd1.png" alt="" width="1243" height="752" srcset="/wp-content/uploads/2018/02/7bee6f93b4db97534814a798d8610cd1.png 1243w, /wp-content/uploads/2018/02/7bee6f93b4db97534814a798d8610cd1-300x181.png 300w, /wp-content/uploads/2018/02/7bee6f93b4db97534814a798d8610cd1-1024x620.png 1024w, /wp-content/uploads/2018/02/7bee6f93b4db97534814a798d8610cd1-768x465.png 768w" sizes="(max-width: 1243px) 100vw, 1243px" /></p>
+<p class="graf graf--p">まずは蔵書印の印面に入れる文字を考えましょう。「○○蔵書」とか「✕✕文庫」が一般的です。その場で考えると時間がかかってしまいます。ワークショップに参加される方にも事前に考えておいてもらいましょう。デザインの参考として国会図書館が面白いサイトを公開しています。</p>
+<p style="text-align: center;"><a href="http://www.ndl.go.jp/zoshoin/index.html">蔵書印の世界トップページ</a></p>
+<p class="graf graf--p">印面にはイラストを入れることもできます。あまり線が細かくなるとレーザーの熱で溶けて埋まってしまう可能性がありますので気をつけて下さい。</p>
+<h2 class="graf graf--h3">手順2. グリップ部分のデータを用意する</h2>
+<p class="graf graf--p">スタンプの持ち手となる部分のデータを作成します。</p>
+<p class="graf graf--p">6mm厚のMDF板を使用することを前提としたデータを用意しました。サンプルとして、スタンプのサイズとして縦が30mmと55mmの2種類を作成しています。こちらからダウンロードして参考にしてください。</p>
+<p><a href="https://www.dropbox.com/sh/7m0bq81nnpn5aem/AABDeg9XfAR8wqRk8RK10l6La?dl=0">https://www.dropbox.com/sh/7m0bq81nnpn5aem/AABDeg9XfAR8wqRk8RK10l6La?dl=0</a></p>
+<ul>
+<li>stamo_base_30mm.ai</li>
+<li>stamp_base_55mm.ai</li>
+</ul>
+<p>Dropboxにある以下の2つのファイルは<a href="http://kamiyama.ms/2017/11/15/129-%e3%82%af%e3%83%a9%e3%83%95%e3%83%88%e5%90%8d%e5%88%ba%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%81%ab%e5%8f%82%e5%8a%a0%e3%81%97%e3%81%a6%ef%bc%92%e8%b6%b3%e7%9b%ae/">クラフト名刺ワークショップ</a>で使った名刺スタンプ用の持ち手データです。名刺サイズのスタンプを作りたい方はこちらを参考にしてみてください。印面のサイズは85&#215;53です。</p>
+<ul>
+<li>名刺スタンプ用グリップ_横_MDF6mm.ai</li>
+<li>名刺スタンプ用グリップ_縦_MDF6mm.ai</li>
+</ul>
+<h2>手順3. スタンプ面をカットする</h2>
+<div>KMSの40ワットレーザーでは、下記のセッティングでカットできます。</div>
+<ul>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">Raster : Speed 50/ Power 100</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">Vector : Speed 50/ Power 100</span></li>
+</ul>
+<p>AdvancedのタブにあるFenceとMirorのチェックを忘れずに！</p>
+<p>失敗するとゴム版を無駄にしてしまいますので、一度は端材を拾ってテストカットしてみることをオススメします。</p>
+<h2>手順4. グリップ部分をカットする</h2>
+<p>MDF 6mmはこのくらいでカットできました。</p>
+<ul>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">Vector : Speed 30/ Power 100</span></li>
+</ul>
+<p>これもほんの少ししか使いませんので、端材コーナーにある杉板なんかでも十分かもしれません。</p>
+<h2>手順5. 貼り合わせる</h2>
+<p>グリップの部品にボンドをつけて組みあわせます。6mm以外の板で作った場合は穴の大きさと板の厚さが食い違っているかも。組み合わせて確認してみて下さい。</p>
+<h2>手順6. 本に押印する</h2>
+<p>できあがったら朱肉を付けてスタンプします。どんどんスタンプしていきましょう。きっと今まで以上に愛着がわいてきます！</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1551" src="http://kamiyama.ms/wp-content/uploads/2018/02/IMG_1091-1280x1280.jpg" alt="" width="1280" height="1280" /></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1547</post-id>	</item>
+	</channel>
+</rss>

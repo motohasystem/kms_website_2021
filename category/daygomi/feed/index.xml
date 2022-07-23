@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Daygomi &#8211; New KMS Blog</title>
+	<atom:link href="/category/daygomi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 May 2018 07:49:55 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">207431303</site>	<item>
+		<title>5/26(土) 地域通貨採掘ワークショップのお知らせ</title>
+		<link>/2018/05/22/526-%e5%9c%b0%e5%9f%9f%e9%80%9a%e8%b2%a8%e6%8e%a1%e6%8e%98%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/</link>
+		
+		<dc:creator><![CDATA[Daisuke]]></dc:creator>
+		<pubDate>Tue, 22 May 2018 07:49:55 +0000</pubDate>
+				<category><![CDATA[Daygomi]]></category>
+		<category><![CDATA[workshop]]></category>
+		<category><![CDATA[お知らせ]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1683</guid>
+
+					<description><![CDATA[通貨の採掘という、人によっては不穏な印象を与えかねないワークショップのお知らせです（笑） 僕たちが発行しているGコインという地域通貨があります。今回は、この地域通貨を自分たちで作ってしまおうというワークショップを開催しま [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>通貨の採掘という、人によっては不穏な印象を与えかねないワークショップのお知らせです（笑）</p>
+<p>僕たちが発行しているGコインという地域通貨があります。今回は、この地域通貨を自分たちで作ってしまおうというワークショップを開催します。</p>
+<blockquote class="wp-embedded-content" data-secret="9oG0qXSrir"><p><a href="http://kamiyama.ms/2017/06/06/%e5%9c%b0%e5%9f%9f%e9%80%9a%e8%b2%a8%ef%bc%88%e3%83%95%e3%82%a1%e3%83%96%e9%80%9a%e8%b2%a8%ef%bc%89%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f/">地域通貨（ファブ通貨）始めました</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://kamiyama.ms/2017/06/06/%e5%9c%b0%e5%9f%9f%e9%80%9a%e8%b2%a8%ef%bc%88%e3%83%95%e3%82%a1%e3%83%96%e9%80%9a%e8%b2%a8%ef%bc%89%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f/embed/#?secret=9oG0qXSrir" data-secret="9oG0qXSrir" width="500" height="282" title="&#8220;地域通貨（ファブ通貨）始めました&#8221; &#8212; KMS" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>このコインはビットコインみたいな暗号通貨でもなければ、もちろん日本円のような通貨とも異なります。その正体が気になる方は是非、KMSのワークショップに参加してみて下さい。そのナゾはきっと解決する上に、お金にも詳しくなることうけあいです。</p>
+<p>なお、この日のワークショップはメイカーサロンの一部として行います。なので、いつもどおりワンコインのオープンラボ利用も受け付けています。下記の日時でオープンしてますので、どうぞご利用下さい！</p>
+<ul>
+<li>日程：5/26(土)</li>
+<li>時間：10:00～16:00</li>
+</ul>
+<h3>お品書き</h3>
+<ul>
+<li>1. 何でも相談、オープンサロン（参加費無料）</li>
+<li>2. 一日工作室が使える、オープンラボ（1日500円）</li>
+<li>3. 地域通貨採掘ワークショップ（報酬：300円分のGコイン）</li>
+</ul>
+<h2>地域通貨採掘ワークショップ</h2>
+<p>作り方は実はちょっと面倒です。まずこちらのレシピを参考に3Dプリンタのフィラメントを溶かしてプレートを作ります。</p>
+<p style="padding-left: 30px;">プラスチックピザ | Fabble<br />
+<a href="https://fabble.cc/sayakaabe/plasticpizza">https://fabble.cc/sayakaabe/plasticpizza</a></p>
+<p>つぎに作成したプレートをレーザーカッターで切り抜きます。この作業も時間との勝負でなかなか大変。時間が経つと固まってしまいます。</p>
+<p><img loading="lazy" class="aligncenter size-medium wp-image-1684" src="http://kamiyama.ms/wp-content/uploads/2018/05/IMG_20170601_105103-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/05/IMG_20170601_105103-300x225.jpg 300w, /wp-content/uploads/2018/05/IMG_20170601_105103-1024x768.jpg 1024w, /wp-content/uploads/2018/05/IMG_20170601_105103-768x576.jpg 768w, /wp-content/uploads/2018/05/IMG_20170601_105103-1536x1152.jpg 1536w, /wp-content/uploads/2018/05/IMG_20170601_105103-2048x1536.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>いつもならコインをカプセルに詰めてガチャガチャに入れるところですが、この日はお手伝いいただいた方に報酬として採掘したGコインのうち２枚をお持ち帰りいただきます。神山町内に４箇所あるGコイン対応店舗で300円分の支払いに使うことができます。</p>
+<p><img loading="lazy" class="aligncenter size-medium wp-image-1685" src="http://kamiyama.ms/wp-content/uploads/2018/05/IMG_20170419_141038-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/05/IMG_20170419_141038-300x225.jpg 300w, /wp-content/uploads/2018/05/IMG_20170419_141038-1024x768.jpg 1024w, /wp-content/uploads/2018/05/IMG_20170419_141038-768x576.jpg 768w, /wp-content/uploads/2018/05/IMG_20170419_141038-1536x1152.jpg 1536w, /wp-content/uploads/2018/05/IMG_20170419_141038-2048x1536.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>地域通貨は数あれどファブ通貨というメイカースペースを中心に流通する通貨の試みは世界中でたぶんきっといまのところは神山だけです。この最先端の試みに参加できるこの機会をお見逃し無く！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1683</post-id>	</item>
+		<item>
+		<title>Gコイン実験結果まとめ</title>
+		<link>/2018/01/19/g%e3%82%b3%e3%82%a4%e3%83%b3%e5%ae%9f%e9%a8%93%e7%b5%90%e6%9e%9c%e3%81%be%e3%81%a8%e3%82%81/</link>
+		
+		<dc:creator><![CDATA[Daisuke]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2018 07:48:34 +0000</pubDate>
+				<category><![CDATA[Daygomi]]></category>
+		<category><![CDATA[イベントレポート]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1502</guid>
+
+					<description><![CDATA[地域通貨の流通実験を行った4K映画祭からだいぶ時間がたってしまいました。コインの流通調査と回収が一段落しましたので、実験結果のまとめをご報告いたします。 実験内容と、Gコインが何なのかについてはこちらの記事をどうぞ。 [ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>地域通貨の流通実験を行った4K映画祭からだいぶ時間がたってしまいました。コインの流通調査と回収が一段落しましたので、実験結果のまとめをご報告いたします。</p>
+<p>実験内容と、Gコインが何なのかについてはこちらの記事をどうぞ。</p>
+<p>[iframe src=&#8221;http://kamiyama.ms/2017/11/22/1125-26-g%e3%82%b3%e3%82%a4%e3%83%b3%e3%81%ae%e6%b5%81%e9%80%9a%e5%ae%9f%e9%a8%93%e3%81%ab%e3%81%94%e5%8d%94%e5%8a%9b%e4%b8%8b%e3%81%95%e3%81%84%e3%80%82/embed&#8221; width=&#8221;100%&#8221; height=&#8221;300px&#8221;]</p>
+<h1><img loading="lazy" class="aligncenter size-medium wp-image-1534" src="http://kamiyama.ms/wp-content/uploads/2018/01/IMG_0344_s-300x300.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2018/01/IMG_0344_s-300x300.jpg 300w, /wp-content/uploads/2018/01/IMG_0344_s-150x150.jpg 150w, /wp-content/uploads/2018/01/IMG_0344_s-768x768.jpg 768w, /wp-content/uploads/2018/01/IMG_0344_s.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></h1>
+<h1><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">実験結果</span></h1>
+<div>
+<h2 data-usually-unique-id="760577684329095932447465"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">コイン流通量</span></h2>
+</div>
+<ul>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">Gコイン発行枚数　60枚（30カプセル）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">Gコイン販売枚数　60枚（30カプセル、完売！）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">取引回数（コインを支払いに使用したお客さんの総数）　26名</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">利用枚数（イベント後にお店にストックされた枚数）　59枚</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">回収枚数（イベント後にKMSで換金した枚数）　29枚</span></li>
+</ul>
+<h2><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">ご協力いただいたお店（11店舗）</span></h2>
+<ul class="listtype-bullet listindent1 list-bullet1">
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">Thai Street Kitchen（フィッシュ＆スパイススープ）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">KOYA（パイ）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">CAFE ESTATE（エスプレッソコーヒー）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">こんまい屋（苔玉作りワークショップ）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">Cafe ELEVEN（インドネシア料理）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">おひーさんの農園 チーノ（カレースープ、お野菜）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">535（台湾ラーメン）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">LICHT LICHT Kamiyama（革小物ワークショップ）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">パンとスープの店 モリグチャウダー（パン）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">豆ちよコーヒー（ドリップコーヒー）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">Brompton Depo.（レンタサイクル）</span>
+<ul class="listtype-bullet listindent2 list-bullet2">
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">鍛クリーニングさんに声をかけていただいて、そこがステーションになっていたレンタサイクルでも受け付けてもらえることとなりました。</span></li>
+</ul>
+</li>
+</ul>
+<h1>所感</h1>
+<p><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">実験用に用意したガチャの30カプセルは完売で、60枚を全てご購入頂きました。お店に聞き取りしたところ受け取った枚数は合計で59枚でしたが、神山塾生のお店でもコインを受け付けていただいたと聞いていますので、残り一枚はそちらですね。</span></p>
+<p><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">また、利用枚数と回収枚数に差があるのは換金されなかったお店もあるためです。イベント終了後も幾つかの店舗では引き続きGコインで支払いができますので、そちらで使うために手元に持っておいていただけるとのことでした。</span></p>
+<p><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">日常的な流通実験は後日改めてスタートを考えていたのですが、４K映画祭を機にいくつかの店舗ではそのままGコインを引受けてくださるとお申し出いただきました。後日改めてとかいつまでも腰が引けたことを言ってないで本格的に流通量を増やしていきたいと思います。</span></p>
+<h1><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">今後の流通実験について</span></h1>
+<p><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">これまでGコインは神山コンプレックスで実験的に販売して、KMSのワークショップだけで使える状態でした。今回は協力店舗を増やしてのはじめての流通実験となり、考えていたよりも大勢の方にご利用いただいて驚いています。50%のプレミアムをつけていたこともあり、目ざとく見つけた子供たちが買っていったという話も聞きました。</span></p>
+<p><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">先にも書いたとおり、今後も日常的に引受けてくださる店舗がいくつかあります。</span></p>
+<p><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">４K映画祭を主催するプラットイーズの隅田会長からは面白い活動なので協力したいとのお声がけもいただきました。来年2018年の４K映画祭に向けての企画も考えていこうと思います。</span></p>
+<h1><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">今後も日常的にGコインを利用できるお店</span></h1>
+<ul class="listtype-bullet listindent1 list-bullet1">
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">Cafe ELEVEN（イタリアン）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">おひーさんの農園 チーノ（カレースープ）</span></li>
+<li><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">535（お弁当）</span></li>
+</ul>
+<p><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90za38ivp4z65zhyz90z6tz82ztz80znaz84zgl1upppz82zo2z69zz85z">こちらの３店舗ではこれからも普段からGコインでの支払いが可能です。Gコインを持って美味しい料理を食べに行ってみて下さい。</span></p>
+<p>これまでと同じく、Gコインは神山コンプレックスのガチャガチャで販売中です！</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-1535" src="http://kamiyama.ms/wp-content/uploads/2018/01/IMG_0436_s-e1516347828514.jpg" alt="" width="600" height="800" srcset="/wp-content/uploads/2018/01/IMG_0436_s-e1516347828514.jpg 600w, /wp-content/uploads/2018/01/IMG_0436_s-e1516347828514-225x300.jpg 225w" sizes="(max-width: 600px) 100vw, 600px" /> <img loading="lazy" class="aligncenter size-full wp-image-1533" src="http://kamiyama.ms/wp-content/uploads/2018/01/IMG_0429_s.jpg" alt="" width="800" height="600" srcset="/wp-content/uploads/2018/01/IMG_0429_s.jpg 800w, /wp-content/uploads/2018/01/IMG_0429_s-300x225.jpg 300w, /wp-content/uploads/2018/01/IMG_0429_s-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /> <img loading="lazy" class="aligncenter size-full wp-image-1532" src="http://kamiyama.ms/wp-content/uploads/2018/01/IMG_0426_s.jpg" alt="" width="800" height="600" srcset="/wp-content/uploads/2018/01/IMG_0426_s.jpg 800w, /wp-content/uploads/2018/01/IMG_0426_s-300x225.jpg 300w, /wp-content/uploads/2018/01/IMG_0426_s-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h1></h1>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1502</post-id>	</item>
+	</channel>
+</rss>

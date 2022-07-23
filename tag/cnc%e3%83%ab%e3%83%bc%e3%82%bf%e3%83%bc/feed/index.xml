@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>CNCルーター &#8211; New KMS Blog</title>
+	<atom:link href="/tag/cnc%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 24 Feb 2018 00:29:40 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">207431303</site>	<item>
+		<title>ShaperOrigin（ハンドCNCルーター）を使って棚作り</title>
+		<link>/2018/02/24/shaperorigin%ef%bc%88%e3%83%8f%e3%83%b3%e3%83%89cnc%e3%83%ab%e3%83%bc%e3%82%bf%e3%83%bc%ef%bc%89%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e6%a3%9a%e4%bd%9c%e3%82%8a/</link>
+		
+		<dc:creator><![CDATA[kms]]></dc:creator>
+		<pubDate>Sat, 24 Feb 2018 00:29:40 +0000</pubDate>
+				<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[活動]]></category>
+		<category><![CDATA[CNCルーター]]></category>
+		<category><![CDATA[ShaperOrigi]]></category>
+		<category><![CDATA[神山杉]]></category>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1586</guid>
+
+					<description><![CDATA[コンプレックスオフィスのパーテーション、Yu Kono&#38;Kohsuke Yoshizawa&#38;Ryohei Kunimotoチームで製作中。来週（2月28日ー3月4日）はFabLab SENDAI FLAT [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>コンプレックスオフィスのパーテーション、<a class="profileLink" href="https://www.facebook.com/konoise?fref=mentions" data-hovercard="/ajax/hovercard/user.php?id=100002298495629&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">Yu Kono</a>&amp;<a class="profileLink" href="https://www.facebook.com/kohsuke.yoshizawa?fref=mentions" data-hovercard="/ajax/hovercard/user.php?id=100002049437698&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">Kohsuke Yoshizawa</a>&amp;<a class="profileLink" href="https://www.facebook.com/ryohei.kunimoto.14?fref=mentions" data-hovercard="/ajax/hovercard/user.php?id=100000892942572&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">Ryohei Kunimoto</a>チームで製作中。来週（2月28日ー3月4日）はFabLab SENDAI FLATから講師　<a class="profileLink" href="https://www.facebook.com/takuma.oami?fref=mentions" data-hovercard="/ajax/hovercard/user.php?id=100002236768369&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">Takuma Oami</a>さんと<a class="profileLink" href="https://www.facebook.com/shino.onodera?fref=mentions" data-hovercard="/ajax/hovercard/user.php?id=100002017837090&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">Shino Onodera</a> さんをお招きして、まだアメリカでしか販売されていないShaperOrigin（ハンドCNCルーター）を活用し、神山杉で、大人が本気になる棚づくりワークショップをKMSにて行います〜。Takuma さんとは、2016年のワークショップで、オートマータやGコインのきっかけになったDaygomiプロジェクトを一緒に創りました。正直、めちゃめちゃ楽しみです。作業はコンプレックスにて、見学可能です！<br />
+<a href="https://shapertools.com/" target="_blank" rel="noopener nofollow" data-ft="{&quot;tn&quot;:&quot;-U&quot;}" data-lynx-mode="asynclazy" data-lynx-uri="https://l.facebook.com/l.php?u=https%3A%2F%2Fshapertools.com%2F&amp;h=ATO3Eil8GTBTCNx2ATJKcyR-u4T-yPLrCBR8j-DWx7N__Nk1xbHTJgatuql3ZG_d4Be8qFe8eZRUlVjz1eEmj0FLMLd9UfgmdyG9QXG105B45USCl3qBp1-6O7kPVhruGCzMWZ62RP6JNQ">https://shapertools.com/</a><br />
+<a href="https://l.facebook.com/l.php?u=http%3A%2F%2Ffablabsendai-flat.com%2F&amp;h=ATPDd3Q7WTkE9rfZTzg8FfZJi0sT9L_osK0pQEWxbZSV7zHQu514lrXe6n7Y-utScRg4h0oi424mRcGF_C0bxL3umnKAwy5lNd23tTzSfJGO9ZAUWvfVjyznTzGHDacD3v88mcf-K6nFRg" target="_blank" rel="noopener nofollow" data-ft="{&quot;tn&quot;:&quot;-U&quot;}" data-lynx-mode="asynclazy">http://fablabsendai-flat.com/</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1586</post-id>	</item>
+	</channel>
+</rss>

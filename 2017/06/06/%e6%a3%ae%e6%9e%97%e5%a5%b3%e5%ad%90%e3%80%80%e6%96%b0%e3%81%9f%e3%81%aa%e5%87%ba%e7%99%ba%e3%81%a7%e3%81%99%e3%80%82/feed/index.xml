@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	森林女子　新たな出発です。 へのコメント	</title>
+	<atom:link href="/2017/06/06/%E6%A3%AE%E6%9E%97%E5%A5%B3%E5%AD%90%E3%80%80%E6%96%B0%E3%81%9F%E3%81%AA%E5%87%BA%E7%99%BA%E3%81%A7%E3%81%99%E3%80%82/feed/" rel="self" type="application/rss+xml" />
+	<link>/2017/06/06/%e6%a3%ae%e6%9e%97%e5%a5%b3%e5%ad%90%e3%80%80%e6%96%b0%e3%81%9f%e3%81%aa%e5%87%ba%e7%99%ba%e3%81%a7%e3%81%99%e3%80%82/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 06 Jun 2017 10:45:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+</channel>
+</rss>

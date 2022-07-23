@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	New KMS Blog へのコメント	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 18 Jul 2017 08:32:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		旅人向けソーラー充電ステーション製作中 &#8211; Mechanic Note より 7/27 ソーラーのワークショップです へのコメント		</title>
+		<link>/2017/07/15/solar-workshop/#comment-3</link>
+
+		<dc:creator><![CDATA[旅人向けソーラー充電ステーション製作中 &#8211; Mechanic Note]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2017 08:32:28 +0000</pubDate>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=1082#comment-3</guid>
+
+					<description><![CDATA[[&#8230;] http://kamiyama.ms/2017/07/15/solar-workshop/ [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] <a href="http://kamiyama.ms/2017/07/15/solar-workshop/" rel="nofollow ugc">http://kamiyama.ms/2017/07/15/solar-workshop/</a> [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		KMSワークショップ同時開催！ &#8211; ポリポリ蚤の市 より レーザーカッターで切り出した杉板で作るモビールワークショップ へのコメント		</title>
+		<link>/2016/11/30/mobileworkshop/#comment-2</link>
+
+		<dc:creator><![CDATA[KMSワークショップ同時開催！ &#8211; ポリポリ蚤の市]]></dc:creator>
+		<pubDate>Fri, 16 Dec 2016 12:06:35 +0000</pubDate>
+		<guid isPermaLink="false">http://kamiyama.ms/?p=784#comment-2</guid>
+
+					<description><![CDATA[[&#8230;] 神山メーカースペースでは、レーザーカッターで切り出した杉板で作るモビールワークショップを同時開催します！ [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] 神山メーカースペースでは、レーザーカッターで切り出した杉板で作るモビールワークショップを同時開催します！ [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
