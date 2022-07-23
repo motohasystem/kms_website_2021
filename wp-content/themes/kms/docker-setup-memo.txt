@@ -1,0 +1,11 @@
+add following to docker file
+    RUN a2enmod rewrite
+
+sudo docker build -t pilot/php:5.6-apache php-5.6-apache
+
+sudo docker run -d -p 8056:80
+                -v /var/www/docker/www:/var/www/html
+                --link mysql:mysql
+                --name php5.6
+                pilot/php:5.6-apache
+                apache2-foreground
